@@ -5,15 +5,15 @@ msgstr ""
 "POT-Creation-Date: 2021-08-04 13:35+0000\n"
 "PO-Revision-Date: 2021-08-04 14:37\n"
 "Last-Translator: \n"
-"Language-Team: Indonesian\n"
-"Language: id_ID\n"
+"Language-Team: Afrikaans\n"
+"Language: af_ZA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: xournalpp\n"
 "X-Crowdin-Project-ID: 363247\n"
-"X-Crowdin-Language: id\n"
+"X-Crowdin-Language: af\n"
 "X-Crowdin-File: /master/po/xournalpp.pot\n"
 "X-Crowdin-File-ID: 6\n"
 
@@ -21,32 +21,32 @@ msgstr ""
 msgid "\n\n"
 "Will now attempt to run without this file."
 msgstr "\n\n"
-"Akan mencoba berjalan tanpa berkas ini."
+"Sal nou probeer om uit te voer sonder hierdie lêer."
 
 #: ../src/control/jobs/BaseExportJob.cpp:48
 msgid "\n"
 " Do you want to continue?"
 msgstr "\n"
-"Apakah Anda ingin melanjutkan?"
+"Wil U voortgaan?"
 
 #: ../src/control/XournalMain.cpp:450
 msgid "\n"
 "Will now attempt to run without this file."
 msgstr "\n"
-"Akan mencoba berjalan tanpa berkas ini."
+"Sal nou probeer om uit te voer sonder hierdie lêer."
 
 #: ../src/gui/toolbarMenubar/ToolPageSpinner.cpp:36
 msgctxt "Page {pagenumber} \"of {pagecount}\""
 msgid " of {1}"
-msgstr " dari {1}"
+msgstr " van {1}"
 
 #: ../src/control/settings/Settings.cpp:115
 msgid "%F-Note-%H-%M"
-msgstr "%F-Catatan-%H-%M"
+msgstr "%F-Nota-%H-%M"
 
 #: ../src/gui/dialog/SettingsDialog.cpp:149
 msgid "<b>No devices were found. This seems wrong - maybe file a bug report?</b>"
-msgstr "<b>Tidak ada perangkat yang ditemukan. Jika ini tidak seharusnya terjadi, mungkin perlu melaporkan kutu?</b>"
+msgstr "<b>Geen toestelle was gevind nie. Hierdie lyk verkeerd - dalk wil U 'n fout rapporteer?</b>"
 
 #: ../src/control/XournalMain.cpp:465
 msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
@@ -55,383 +55,382 @@ msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
 "  Not relative\n"
 "  Not in the Working Path\n"
 "  Not in {2}"
-msgstr "<span foreground='red' size='x-large'>Berkas UI yang diperlukan tidak ditemukan:\n"
-"<b>{1}</b></span>\n"
-"Tidak dapat menemukan di mana pun.\n"
-"  Tidak ada di relatif\n"
-"  Tidak ada di Directori Kerja\n"
-"  Tidak ada di {2}"
+msgstr "<span foreground='red' size='x-large'>Vermis die nodige verbruikers koppelvalk lêer:<b>{1}</b></span>\n"
+"Kon nie dit op enige plek vind nie.\n"
+"  Nie relatief nie\n"
+"  Nie in die werkende-pad nie\n"
+"  Nie in {2}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:415
 msgid "Add/Edit Tex"
-msgstr "Tambah/Ubah Tex"
+msgstr "Voeg by/Redigeer teks"
 
 #: ../src/control/XournalMain.cpp:687
 msgid "Advanced export options"
-msgstr "Opsi ekspor lanjutan"
+msgstr "Gevorderde uitvoer opsies"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:36
 msgid "All files"
-msgstr "Semua berkas"
+msgstr "Alle lêers"
 
 #: ../src/control/pagetype/PageTypeMenu.cpp:191
 msgid "Apply to all pages"
-msgstr "Terapkan ke semua halaman"
+msgstr "Pas toe op alle blaaie"
 
 #: ../src/control/pagetype/PageTypeMenu.cpp:182
 msgid "Apply to current page"
-msgstr "Terapkan ke halaman ini"
+msgstr "Pas toe op huidige bladsy"
 
 #: ../src/control/tools/EditSelection.cpp:340
 msgid "Arrange"
-msgstr "Susun"
+msgstr "Rangskik"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:29
 #: ../src/control/stockdlg/XojOpenDlg.cpp:112
 msgid "Attach file to the journal"
-msgstr "Lampirkan berkas ke jurnal"
+msgstr "Voeg lêer by aan joernaal"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:112
 msgid "Attribute \"{1}\" could not be parsed as double, the value is \"{2}\""
-msgstr "Atribut \"{1}\" tidak dapat diuraikan sebagai double, nilainya adalah \"{2}\""
+msgstr "Kenmerk \"{1}\" kon nie verwerk word as dubbel nie, die waarde is \"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:105
 msgid "Attribute \"{1}\" could not be parsed as double, the value is nullptr"
-msgstr "Atribut \"{1}\" tidak dapat diuraikan sebagai double, nilainya adalah nullptr"
+msgstr "Kenmerk \"{1}\" kon nie verwerk word as dubbel nie, die waarde is nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:129
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:148
 msgid "Attribute \"{1}\" could not be parsed as int, the value is \"{2}\""
-msgstr "Atribut \"{1}\" tidak dapat diuraikan sebagai int, nilainya adalah \"{2}\""
+msgstr "Kenmerk \"{1}\" kon nie verwerk word as heelgetal nie, die waarde is \"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:122
 msgid "Attribute \"{1}\" could not be parsed as int, the value is nullptr"
-msgstr "Atribut \"{1}\" tidak dapat diuraikan sebagai int, nilainya adalah nullptr"
+msgstr "Kenmerk \"{1}\" kon nie verwerk word as heelgetal nie, die waarde is nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:167
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:187
 msgid "Attribute \"{1}\" could not be parsed as size_t, the value is \"{2}\""
-msgstr "Atribut \"{1}\" tidak dapat diuraikan sebagai size_t, nilainya adalah \"{2}\""
+msgstr "Kenmerk \"{1}\" kon nie verwerk word as size_t nie, die waarde is \"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:160
 msgid "Attribute \"{1}\" could not be parsed as size_t, the value is nullptr"
-msgstr "Atribut \"{1}\" tidak dapat diuraikan sebagai size_t, nilainya adalah nullptr"
+msgstr "Kenmerk \"{1}\" kon nie verwerk word as size_t nie, die waarde is nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:54
 msgid "Attribute color not set!"
-msgstr "Atribut warna belum disetel!"
+msgstr "Kenmerk kleur is nie gestel nie!"
 
 #: ../src/control/AudioController.cpp:97
 msgid "Audio folder not set! Recording won't work!\n"
 "Please set the recording folder under \"Preferences > Audio recording\""
-msgstr "Folder audio belum disetel! Perekaman tidak bisa dilakukan!\n"
-"Silakan menyetel folder rekaman pada \"Preferensi > Rekaman audio\""
+msgstr "Oudio lêer is nie gestel nie! Opname sal nie werk nie!\n"
+"Stel asseblief die opname lêer onder \"Voorkeure > Oudio opname\""
 
 #: ../src/control/Control.cpp:206
 msgid "Autosave failed with an error: {1}"
-msgstr "Simpan otomatis gagal dengan kesalahan: {1}"
+msgstr "Autosave het misluk met fout: {1}"
 
 #: ../src/control/Control.cpp:186
 msgid "Autosave renamed from {1} to {2}"
-msgstr "Simpan otomatis berganti nama dari {1} ke {2}"
+msgstr "Autosave vernoem van {1} na {2}"
 
 #: ../src/control/jobs/AutosaveJob.cpp:42
 msgid "Autosaving to {1}"
-msgstr "Menyimpan otomatis ke {1}"
+msgstr "Autosaving na {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:381
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:451
 msgid "Back"
-msgstr "Kembali"
+msgstr "Terug"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:197 ../src/model/XojPage.cpp:174
 msgid "Background"
-msgstr "Latar belakang"
+msgstr "Agtergrond"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:10
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:94
 msgid "Black"
-msgstr "Hitam"
+msgstr "Swart"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:14
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:98
 msgid "Blue"
-msgstr "Biru"
+msgstr "Blou"
 
 #: ../src/control/tools/EditSelection.cpp:357
 msgid "Bring forward"
-msgstr "Bawa maju"
+msgstr "Bring vorentoe"
 
 #: ../src/control/tools/EditSelection.cpp:347
 msgid "Bring to front"
-msgstr "Bawa ke depan"
+msgstr "Bring na vore"
 
 #: ../src/control/Control.cpp:2011 ../src/control/Control.cpp:2462
 #: ../src/control/XournalMain.cpp:168
 msgid "Cancel"
-msgstr "Batal"
+msgstr "Kanselleer"
 
 #: ../src/undo/ColorUndoAction.cpp:85
 msgid "Change color"
-msgstr "Ubah warna"
+msgstr "Verander kleur"
 
 #: ../src/undo/FontUndoAction.cpp:105
 msgid "Change font"
-msgstr "Ubah fonta"
+msgstr "Verander lettertipe"
 
 #: ../src/undo/LineStyleUndoAction.cpp:71
 msgid "Change line style"
-msgstr "Ubah gaya garis"
+msgstr "Verander lyn styl"
 
 #: ../src/undo/FillUndoAction.cpp:79
 msgid "Change stroke fill"
-msgstr "Ubah warna goresan"
+msgstr "Verander pen vul"
 
 #: ../src/undo/SizeUndoAction.cpp:106
 msgid "Change stroke width"
-msgstr "Ubah lebar goresan"
+msgstr "Verander pen wydte"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:78
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
-msgstr "Warna \"{1}\" tidak diketahui (tidak didefinisikan pada daftar warna bawaan)!"
+msgstr "Kleur \"{1}\" onbekend (nie gedefinieer in die verstek kleur lys nie)!"
 
 #: ../src/gui/sidebar/indextree/SidebarIndexPage.cpp:227
 msgid "Contents"
-msgstr "Konten"
+msgstr "Inhoud"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:348
 #: ../src/gui/toolbarMenubar/model/ToolbarModel.cpp:78
 #: ../src/gui/toolbarMenubar/model/ToolbarModel.cpp:84
 msgid "Copy"
-msgstr "Salin"
+msgstr "Kopieer"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:32
 msgid "Copy current"
-msgstr "Salin saat ini"
+msgstr "Kopieer huidige"
 
 #: ../src/undo/CopyUndoAction.cpp:60
 msgid "Copy page"
-msgstr "Salin halaman"
+msgstr "Kopieer bladsy"
 
 #: ../src/util/PathUtil.cpp:249
 msgid "Could not create folder: {1}\n"
 "Failed with error: {2}"
-msgstr "Tidak dapat membuat folder: {1}\n"
-"Gagal dengan kesalahan: {2}"
+msgstr "Kon die lêer skep nie: {1}\n"
+"Misluk met fout: {2}"
 
 #: ../src/control/LatexController.cpp:273
 msgid "Could not load LaTeX PDF file"
-msgstr "Tidak dapat memuat berkas LaTeX PDF"
+msgstr "Kon nie LaTeX PDF lêer laai nie"
 
 #: ../src/control/LatexController.cpp:267
 msgid "Could not load LaTeX PDF file: {1}"
-msgstr "Tidak dapat memuat berkas LaTeX PDF: {1}"
+msgstr "Kon nie LaTeX PDF lêer laai nie: {1}"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:17
 msgid "Could not load pagetemplates.ini file"
-msgstr "Tidak dapat memuat berkas pagetemplates.ini"
+msgstr "Kon nie pagetemplates.ini lêer laai nie"
 
 #: ../src/control/xojfile/LoadHandler.cpp:787
 msgid "Could not open attachment: {1}. Error message: Could not read file"
-msgstr "Tidak dapat membuka lampiran: {1}. Pesan kesalahan: Tidak dapat membaca berkas"
+msgstr "Kon nie aangehegde oop maak nie: {1}. Foutboodskap: Kon nie lêer lees nie"
 
 #: ../src/control/xojfile/LoadHandler.cpp:796
 msgid "Could not open attachment: {1}. Error message: Could not write file"
-msgstr "Tidak dapat membuka lampiran: {1}. Pesan kesalahan: Tidak dapat menulis berkas"
+msgstr "Kon nie aangehegde oop maak nie: {1}. Foutboodskap: Kon nie lêer skryf nie"
 
 #: ../src/control/xojfile/LoadHandler.cpp:768
 #: ../src/control/xojfile/LoadHandler.cpp:1019
 #: ../src/control/xojfile/LoadHandler.cpp:1037
 msgid "Could not open attachment: {1}. Error message: No valid file size provided"
-msgstr "Tidak dapat membuka lampiran: {1}. Pesan kesalahan: Tidak ada ukuran berkas yang valid"
+msgstr "Kon nie aangehegde oop maak nie: {1}. Foutboodskap: Geen geldige lêer grote gegee nie"
 
 #: ../src/control/xojfile/LoadHandler.cpp:759
 #: ../src/control/xojfile/LoadHandler.cpp:775
 #: ../src/control/xojfile/LoadHandler.cpp:1010
 #: ../src/control/xojfile/LoadHandler.cpp:1026
 msgid "Could not open attachment: {1}. Error message: {2}"
-msgstr "Tidak dapat membuka lampiran: {1}. Pesan kesalahan: {2}"
+msgstr "Kon nie aangehegde oop maak nie: {1}. Foutboodskap: {2}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:159
 msgid "Could not open file: \"{1}\""
-msgstr "Tidak dapat membuka berkas: \"{1}\""
+msgstr "Kon nie lêer oop maak nie: \"{1}\""
 
 #: ../src/gui/MainWindow.cpp:92
 msgid "Could not parse custom toolbar.ini file: {1}\n"
 "Toolbars will not be available"
-msgstr "Tidak dapat menguraikan berkas kustom toolbar.ini: {1}\n"
-"Tidak dapat menyediakan bilah alat"
+msgstr "Kon nie self-gemaakte toolbar.ini lêer verwerk nie: {1}\n"
+"Taakbalk sal nie beskikbaar wees nie"
 
 #: ../src/gui/MainWindow.cpp:83
 msgid "Could not parse general toolbar.ini file: {1}\n"
 "No Toolbars will be available"
-msgstr "Tidak dapat mengurai berkas umum toolbar.ini: {1}\n"
-"Tidak dapat menyediakan bilah alat"
+msgstr "Kon nie algemene toolbar.ini lêer verwerk nie: {1}\n"
+"Geen Taakblak sal beskikbaar wees nie"
 
 #: ../src/control/xojfile/LoadHandler.cpp:355
 #: ../src/control/xojfile/LoadHandler.cpp:379
 msgid "Could not read image: {1}. Error message: {2}"
-msgstr "Tidak dapat membaca gambar: {1}. Pesan kesalahan: {2}"
+msgstr "Kon nie foto lees nie: {1}. Foutboodskap: {2}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:389
 msgid "Could not read page number for cloned background image: {1}."
-msgstr "Tidak dapat membaca nomor halaman untuk salinan latar belakang gambar: {1}."
+msgstr "Kon nie bladsy nommer lees van gekloonde agtergrond foto nie: {1}."
 
 #: ../src/undo/UndoRedoHandler.cpp:139
 msgid "Could not redo \"{1}\"\n"
 "Something went wrong… Please write a bug report…"
-msgstr "Tidak dapat mengulang \"{1}\"\n"
-"Ada sesuatu yang salah… Silakan mengirimkan laporan kutu…"
+msgstr "Kon nie \"{1}\" herstel nie\n"
+"Iets het fout gegaan... Skryf asseblief 'n fout verslag…"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:182
 msgid "Could not remove tool item from Toolbar {1} on position {2}"
-msgstr "Tidak dapat membuang item alat dari Bilah Alat {1} pada posisi {2}"
+msgstr "Kon nie werktuig item van Taakbalk {1} op posisie {2} verwyder nie"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:177
 msgid "Could not remove tool item {1} from Toolbar {2} on position {3}"
-msgstr "Tidak dapat membuang item alat {1} dari Bilah Alat {2} pada posisi {3}"
+msgstr "Kon nie werktuig item {1} van Taakbalk {2} op posisie {3} verwyder nie"
 
 #: ../src/control/Control.cpp:197
 msgid "Could not rename autosave file from \"{1}\" to \"{2}\": {3}"
-msgstr "Tidak dapat mengganti nama berkas simpan otomatis dari \"{1}\" ke \"{2}\": {3}"
+msgstr "Kon nie autosave lêer vernoem van \"{1}\" na \"{2}\": {3}"
 
 #: ../src/control/latex/LatexGenerator.cpp:70
 msgid "Could not save .tex file: {1}"
-msgstr "Tidak dapat menyimpan berkas .tex: {1}"
+msgstr "Kon nie .tex lêer save nie: {1}"
 
 #: ../src/control/latex/LatexGenerator.cpp:86
 msgid "Could not start {1}: {2} (exit code: {3})"
-msgstr "Tidak dapat memulai {1}: {2} (kode keluar: {3})"
+msgstr "Kon nie begin nie {1}: {2} (afskakel kode: {3})"
 
 #: ../src/undo/UndoRedoHandler.cpp:110
 msgid "Could not undo \"{1}\"\n"
 "Something went wrong… Please write a bug report…"
-msgstr "Tidak dapat membatalkan \"{1}\"\n"
-"Ada sesuatu yang salah… Silakan mengirimkan laporan kutu…"
+msgstr "Kon nie ontdoen nie \"{1}\"\n"
+"Iets het fout gegaan… Skry asseblief 'n fout verslag…"
 
 #: ../src/control/xojfile/SaveHandler.cpp:243
 msgid "Could not write background \"{1}\", {2}"
-msgstr "Tidak dapat menulis latar belakang \"{1}\", {2}"
+msgstr "Kon nie agtergrond skryf nie \"{1}\", {2}"
 
 #: ../src/control/xojfile/SaveHandler.cpp:345
 msgid "Could not write background \"{1}\". Continuing anyway."
-msgstr "Tidak dapat menulis latar belakang \"{1}\". Tetap melanjutkan."
+msgstr "Kon nie agtergrond skryf nie \"{1}\". Vorder nog steeds."
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:79
 msgid "Create new layer"
-msgstr "Buat lapisan baru"
+msgstr "Skep nuwe laag"
 
 #: ../src/gui/dialog/FormatDialog.cpp:67
 msgid "Custom"
-msgstr "Kustom"
+msgstr "Pasgemaak"
 
 #: ../src/control/jobs/CustomExportJob.cpp:19
 msgid "Custom Export"
-msgstr "Ekspor kustom"
+msgstr "Pasgemaakte Uitvoer"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:370
 msgid "Customize Toolbars"
-msgstr "Sesuaikan Bilah Alat"
+msgstr "Pas Taakbalk aan"
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:29
 msgid "Customized"
-msgstr "Disesuaikan"
+msgstr "Pasgemaakte"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:347
 msgid "Cut"
-msgstr "Potong"
+msgstr "Knip"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:417
 msgid "Default Tool"
-msgstr "Alat Bawaan"
+msgstr "Verstek Werktuig"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:353
 #: ../src/undo/DeleteUndoAction.cpp:74
 msgid "Delete"
-msgstr "Hapus"
+msgstr "Verwyder"
 
 #: ../src/control/XournalMain.cpp:167
 msgid "Delete Logfile"
-msgstr "Hapus Berkas Log"
+msgstr "Vee Logfile uit"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:401
 msgid "Delete current page"
-msgstr "Hapus halaman ini"
+msgstr "Verwyder huidige bladsy"
 
 #: ../src/control/XournalMain.cpp:209
 msgid "Delete file"
-msgstr "Hapus berkas"
+msgstr "Verwyder lêer"
 
 #: ../src/undo/RemoveLayerUndoAction.cpp:28
 msgid "Delete layer"
-msgstr "Hapus lapisan"
+msgstr "Verwyder laag"
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:56
 msgid "Delete this layer"
-msgstr "Hapus layer ini"
+msgstr "Verwyder hierdie laag"
 
 #: ../src/gui/sidebar/previews/page/SidebarPreviewPages.cpp:69
 msgid "Delete this page"
-msgstr "Hapus halaman ini"
+msgstr "Verwyder hierdie bladsy"
 
 #: ../src/control/Control.cpp:2459
 msgid "Discard"
-msgstr "Buang"
+msgstr "Gooi weg"
 
 #: ../src/control/XournalMain.cpp:688
 msgid "Display advanced export options"
-msgstr "Tampilkan opsi ekspor lanjutan"
+msgstr "Wys gevorderde uitvoer opsies"
 
 #: ../src/control/Control.cpp:1956
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
-msgstr "Jangan membuka berkas Simpan Otomatis. Berkas itu mungkin akan ditimpa!\n"
-"Salin berkas ke folder yang lain.\n"
-"Berkas dari Folder {1} tidak dapat dibuka."
+msgstr "Moet nie Autosave lêers oop maak nie. Hulle sal oorskryf word!\n"
+"Kopieer die lêers na 'n ander laai.\n"
+"Lêer van laai {1} kan nie oopgemaak word nie."
 
 #: ../src/control/jobs/BaseExportJob.cpp:41
 msgid "Do not overwrite the background PDF! This will cause errors!"
-msgstr "Jangan menimpa PDF latar belakang! Ini mungkin akan menyebabkan kesalahan!"
+msgstr ""
 
 #: ../src/control/Control.cpp:2453
 msgid "Document file was removed."
-msgstr "Berkas dokumen telah dihapus."
+msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:241
 msgid "Document is corrupted (no pages found in file)"
-msgstr "Dokumen rusak (tidak ada halaman yang ditemukan di dalam berkas)"
+msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:237
 msgid "Document is not complete (maybe the end is cut off?)"
-msgstr "Dokumen tidak lengkap (mungkin bagian akhirnya terpotong?)"
+msgstr ""
 
 #: ../src/model/Document.cpp:285 ../src/model/Document.cpp:294
 #: ../src/model/Document.cpp:297
 msgid "Document not loaded! ({1}), {2}"
-msgstr "Dokumen tidak dimuat! ({1}), {2}"
+msgstr ""
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:26
 msgid "Dotted"
-msgstr "Titik-titik"
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:127
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:35
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:422
 msgid "Draw Arrow"
-msgstr "Gambar Panah"
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:125
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:33
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:421
 msgid "Draw Ellipse"
-msgstr "Gambar Elips"
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:121
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:36
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:425
 msgid "Draw Line"
-msgstr "Gambar Garis"
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:123
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:31
@@ -439,130 +438,126 @@ msgstr "Gambar Garis"
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:102
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:420
 msgid "Draw Rectangle"
-msgstr "Gambar Persegi"
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:133
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:41
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:426
 msgid "Draw Spline"
-msgstr "Gambar Spline"
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:129
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:37
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:424
 msgid "Draw coordinate system"
-msgstr "Gambar sistem koordinat"
+msgstr ""
 
 #: ../src/undo/InsertUndoAction.cpp:30
 msgid "Draw stroke"
-msgstr "Gambar goresan"
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:117
 msgid "Drawing Type - don't change"
-msgstr "Tipe Gambar - jangan diubah"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:26
 msgid "Drawing Type Combo"
-msgstr "Kombinasi Tipe Gambar"
+msgstr ""
 
 #: ../src/undo/TextBoxUndoAction.cpp:36
 msgid "Edit text"
-msgstr "Ubah teks"
+msgstr ""
 
 #: ../src/undo/EmergencySaveRestore.cpp:19
 msgid "Emergency saved document"
-msgstr "Dokumen tersimpan darurat"
+msgstr ""
 
 #: ../src/gui/dialog/SettingsDialog.cpp:281
 msgid "Enable pressure sensitivity or pressure inference to change this setting!"
-msgstr "Aktifkan sensitivitas tekanan atau sensitivitas inferensi untuk mengubah pengaturan ini!"
+msgstr ""
 
 #: ../src/undo/AddUndoAction.cpp:75 ../src/undo/DeleteUndoAction.cpp:71
 #: ../src/undo/EraseUndoAction.cpp:90
 msgid "Erase stroke"
-msgstr "Hapus goresan"
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:84
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:250
 msgid "Eraser"
-msgstr "Penghapus"
+msgstr ""
 
 #: ../src/control/Control.cpp:2210
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
-msgstr "Kesalahan saat anotasi berkas PDF \"{1}\"\n"
-"{2}"
+msgstr ""
 
 #: ../src/gui/GladeGui.cpp:22
 msgid "Error loading glade file \"{1}\" (try to load \"{2}\")"
-msgstr "Kesalahan saat memuat berkas glade \"{1}\" (cobalah memuat \"{2}\")"
+msgstr ""
 
 #: ../src/control/Control.cpp:2033
 msgid "Error opening file \"{1}\""
-msgstr "Kesalahan ketika membuka berkas \"{1}\""
+msgstr ""
 
 #: ../src/util/OutputStream.cpp:25
 msgid "Error opening file: \"{1}\""
-msgstr "Kesalahan ketika membuka berkas: \"{1}\""
+msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:443
 #: ../src/control/xojfile/LoadHandler.cpp:463
 msgid "Error reading PDF: {1}"
-msgstr "Kesalahan saat membaca PDF: {1}"
+msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:520
 msgid "Error reading width of a stroke: {1}"
-msgstr "Kesalahan saat membaca lebar goresan: {1}"
+msgstr ""
 
 #: ../src/control/jobs/ImageExport.cpp:145
 msgid "Error save image #1"
-msgstr "Kesalahan saat menyimpan gambar #1"
+msgstr ""
 
 #: ../src/control/jobs/ImageExport.cpp:161
 msgid "Error save image #2"
-msgstr "Kesalahan saat menyimpan gambar #2"
+msgstr ""
 
 #: ../src/control/jobs/AutosaveJob.cpp:15
 msgid "Error while autosaving: {1}"
-msgstr "Kesalahan saat menyimpan otomatis: {1}"
+msgstr ""
 
 #: ../src/util/Util.cpp:76
 msgid "Error {1} executing system command: {2}"
-msgstr "Kesalahan {1} mengeksekusi perintah sistem: {2}"
+msgstr ""
 
 #: ../src/util/CrashHandler.cpp:39
 msgid "Error: {1}"
-msgstr "Kesalahan: {1}"
+msgstr ""
 
 #: ../src/gui/dialog/LatexSettingsPanel.cpp:75
 msgid "Error: {1} is not a regular file. Please check your LaTeX template file settings. "
-msgstr "Kesalahan: {1} bukanlah berkas biasa. Silahkan cek pengaturan berkas templat LaTeX. "
+msgstr ""
 
 #: ../src/gui/dialog/LatexSettingsPanel.cpp:65
 msgid "Error: {1}. Please check the contents of {2}"
-msgstr "Kesalahan {1}. Silahkan cek isi konten dari {2}"
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:187
 msgid "Errorlog cannot be deleted. You have to do it manually.\n"
 "Logfile: {1}"
-msgstr "Log kesalahan tidak dapat dihapus. Anda harus melakukannya secara manual.\n"
-"Berkas log: {1}"
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:645
 msgid "Export FILE as PDF"
-msgstr "Ekspor FILE ke PDF"
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:647
 msgid "Export FILE as image files (one per page)\n"
 "                                 Guess the output format from the extension of IMGFILE\n"
 "                                 Supported formats: .png, .svg"
-msgstr "Ekspor FILE sebagai berkas gambar (satu per halaman)\n"
-"                                 Terka format keluaran dari ekstensi berkas IMGFILE\n"
-"                                 Format yang didukung: .png, .svg"
+msgstr ""
 
 #: ../src/control/jobs/BaseExportJob.cpp:18
 msgid "Export PDF"
-msgstr "Ekspor PDF"
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:661
 msgid "Export layers progressively\n"
@@ -603,12 +598,11 @@ msgstr ""
 #: ../src/util/PathUtil.cpp:151 ../src/util/PathUtil.cpp:168
 msgid "File couldn't be opened. You have to do it manually:\n"
 "URL: {1}"
-msgstr "Berkas tidak dapat dibuka. Anda harus melakukannya secara manual:\n"
-"URL: {1}"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:474
 msgid "Fill"
-msgstr "Isi"
+msgstr ""
 
 #: ../src/gui/dialog/SettingsDialog.cpp:285
 msgid "Filter input pressure. Multiply the pressure by the pressure multiplier. If less than the minimum, use the minimum pressure."
@@ -616,27 +610,27 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:488
 msgid "Fine"
-msgstr "Halus"
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:92
 msgid "Floating Toolbox (experimental)"
-msgstr "Kotak Alat Melayang (eksperimental)"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/FontButton.cpp:62
 msgid "Font"
-msgstr "Fonta"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:448
 msgid "Forward"
-msgstr "Maju"
+msgstr ""
 
 #: ../src/gui/dialog/AboutDialog.cpp:40
 msgid "GNU GPLv2 or later"
-msgstr "GNU GPLv2 atau setelahnya"
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:636
 msgid "Get version of xournalpp"
-msgstr "Dapatkan versi xournalpp"
+msgstr ""
 
 #: ../src/control/LatexController.cpp:53
 msgid "Global template file does not exist. Please check your settings."
@@ -648,100 +642,100 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:380
 msgid "Go to first page"
-msgstr "Pergi ke halaman pertama"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:384
 msgid "Go to last page"
-msgstr "Pergi ke halaman terakhir"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:387
 msgid "Go to next layer"
-msgstr "Pergi ke lapisan berikutnya"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:382
 msgid "Go to page"
-msgstr "Pergi ke halaman"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:386
 msgid "Go to previous layer"
-msgstr "Pergi ke lapisan sebelumnya"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:388
 msgid "Go to top layer"
-msgstr "Pergi ke lapisan atas"
+msgstr ""
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:25
 msgid "Graph"
-msgstr "Grafik"
+msgstr ""
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:15
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:99
 msgid "Gray"
-msgstr "Abu-abu"
+msgstr ""
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:11
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:95
 msgid "Green"
-msgstr "Hijau"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:358
 msgid "Grid Snapping"
-msgstr "Tempel ke Kisi"
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:91
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:434
 msgid "Hand"
-msgstr "Tangan"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:73
 msgid "Hide all"
-msgstr "Sembunyikan semua"
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:85
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:412
 msgid "Highlighter"
-msgstr "Penyorot"
+msgstr ""
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:34
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:416
 msgid "Image"
-msgstr "Gambar"
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:294
 msgid "Image file successfully created"
-msgstr "Gambar berhasil dibuat"
+msgstr ""
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:18
 msgid "Images"
-msgstr "Gambar"
+msgstr ""
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:56
 msgid "Insert a copy of the current layer below"
-msgstr "Sisipkan salinan lapisan saat ini di bawah"
+msgstr ""
 
 #: ../src/gui/sidebar/previews/page/SidebarPreviewPages.cpp:69
 msgid "Insert a copy of the current page below"
-msgstr "Sisipkan salinan halaman saat ini di bawah"
+msgstr ""
 
 #: ../src/undo/InsertUndoAction.cpp:79
 msgid "Insert elements"
-msgstr "Sisipkan elemen"
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:87 ../src/undo/InsertUndoAction.cpp:34
 msgid "Insert image"
-msgstr "Sisipkan gambar"
+msgstr ""
 
 #: ../src/undo/InsertUndoAction.cpp:36
 msgid "Insert latex"
-msgstr "Sisipkan latex"
+msgstr ""
 
 #: ../src/undo/InsertLayerUndoAction.cpp:26
 msgid "Insert layer"
-msgstr "Sisipkan lapisan"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:397
 msgid "Insert page"
-msgstr "Sisipkan halaman"
+msgstr ""
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:27
 msgid "Isometric Dotted"
@@ -753,7 +747,7 @@ msgstr ""
 
 #: ../src/control/XournalMain.cpp:632
 msgid "Jump to Page (first Page: 1)"
-msgstr "Lompat ke Halaman (halaman pertama: 1)"
+msgstr ""
 
 #: ../src/control/LatexController.cpp:192
 msgid "Latex generation encountered an error: {1} (exit code: {2})"
@@ -761,238 +755,234 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:250
 msgid "Layer"
-msgstr "Lapisan"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:239
 msgid "Layer Combo"
-msgstr "Kombinasi Lapisan"
+msgstr ""
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:60
 msgid "Layer Preview"
-msgstr "Pratinjau Lapisan"
+msgstr ""
 
 #: ../src/control/layer/LayerController.cpp:329
 msgid "Layer {1}"
-msgstr "Lapisan {1}"
+msgstr ""
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:60
 msgid "Layerstack Preview"
-msgstr "Pratinjau Lapisan"
+msgstr ""
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:12
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:96
 msgid "Light Blue"
-msgstr "Biru Muda"
+msgstr ""
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:13
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:97
 msgid "Light Green"
-msgstr "Hijau Muda"
+msgstr ""
 
 #: ../src/gui/PageView.cpp:703
 #: ../src/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:76
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:20
 msgid "Loading..."
-msgstr "Memuat..."
+msgstr ""
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:17
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:101
 msgid "Magenta"
-msgstr "Magenta"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:369
 msgid "Manage Toolbars"
-msgstr "Kelola Bilah Alat"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:489
 msgid "Medium"
-msgstr "Sedang"
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:446
 msgid "Missing the needed UI file:\n"
 "{1}\n"
 " .app corrupted?\n"
 "Path: {2}"
-msgstr "Berkas UI yang dibutuhkan tidak ada:\n"
-"{1}\n"
-" .app rusak?\n"
-"Path: {2}"
+msgstr ""
 
 #: ../src/undo/MoveUndoAction.cpp:16
 msgid "Move"
-msgstr "Pindah"
+msgstr ""
 
 #: ../src/undo/MoveLayerUndoAction.cpp:27
 msgid "Move layer"
-msgstr "Pindahkan lapisan"
+msgstr ""
 
 #: ../src/undo/SwapUndoAction.cpp:63
 msgid "Move page downwards"
-msgstr "Pindahkan halaman ke bawah"
+msgstr ""
 
 #: ../src/undo/SwapUndoAction.cpp:63
 msgid "Move page upwards"
-msgstr "Pindahkan halaman ke atas"
+msgstr ""
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:70
 msgid "New"
-msgstr "Baru"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:333
 msgid "New Xournal"
-msgstr "Xournal Baru"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:383
 msgid "Next"
-msgstr "Berikutnya"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:391
 msgid "Next annotated page"
-msgstr "Halaman beranotasi berikutnya"
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:63
 msgid "No device"
-msgstr "Tidak ada perangkat"
+msgstr ""
 
 #: ../src/pdf/base/XojCairoPdfExport.cpp:148
 #: ../src/pdf/base/XojCairoPdfExport.cpp:190
 msgid "No pages to export!"
-msgstr "Tidak ada halaman untuk diekspor!"
+msgstr ""
 
 #: ../src/control/Control.cpp:1265
 msgid "No pdf pages available to append. You may need to reopen the document first."
-msgstr "Tidak ada halaman pdf yang bisa ditambahkan. Anda mungkin perlu membuka dokumen itu terlebih dahulu."
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:119
 msgid "Normal drawing"
-msgstr "Gambar normal"
+msgstr ""
 
 #: ../src/plugin/Plugin.cpp:233 ../src/plugin/Plugin.cpp:249
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:668
 msgid "Only export the pages specified by RANGE (e.g. \"2-3,5,7-\")\n"
 "                                 No effect without -p/--create-pdf or -i/--create-img"
-msgstr "Hanya ekspor halaman yang spesifik dengan RANGE (mis. \"2-3,5,7-\")\n"
-"                                 Tidak berefek tanpa -p/--create-pdf atau -i/--create-img"
+msgstr ""
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:12
 msgid "Open Image"
-msgstr "Buka Gambar"
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:165
 msgid "Open Logfile"
-msgstr "Buka Berkas Log"
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:166
 msgid "Open Logfile directory"
-msgstr "Buka direktori Berkas Log"
+msgstr ""
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:12
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:334
 msgid "Open file"
-msgstr "Buka berkas"
+msgstr ""
 
 #: ../src/control/RecentManager.cpp:185
 msgctxt "{1} is a URI"
 msgid "Open {1}"
-msgstr "Buka {1}"
+msgstr ""
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:18
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:102
 msgid "Orange"
-msgstr "Oranye"
+msgstr ""
 
 #: ../src/control/jobs/PdfExportJob.cpp:9
 msgid "PDF Export"
-msgstr "Ekspor PDF"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageSpinner.cpp:40
 msgid "PDF Page {1}"
-msgstr "Halaman PDF {1}"
+msgstr ""
 
 #: ../src/view/PdfView.cpp:31
 msgid "PDF background missing"
-msgstr "Latar belakang PDF tidak ada"
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:348
 msgid "PDF file successfully created"
-msgstr "Berkas PDF berhasil dibuat"
+msgstr ""
 
 #: ../src/control/jobs/CustomExportJob.cpp:21
 #: ../src/control/jobs/PdfExportJob.cpp:13
 #: ../src/control/stockdlg/XojOpenDlg.cpp:43
 msgid "PDF files"
-msgstr "Berkas PDF"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageSpinner.cpp:46
 msgid "PDF {1}"
-msgstr "PDF {1}"
+msgstr ""
 
 #: ../src/control/jobs/CustomExportJob.cpp:22
 msgid "PNG graphics"
-msgstr "Grafik PNG"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageSpinner.cpp:85
 msgid "Page"
-msgstr "Halaman"
+msgstr ""
 
 #: ../src/gui/sidebar/previews/page/SidebarPreviewPages.cpp:73
 msgid "Page Preview"
-msgstr "Pratinjau Halaman"
+msgstr ""
 
 #: ../src/undo/PageBackgroundChangedUndoAction.cpp:81
 msgid "Page background changed"
-msgstr "Latar belakang halaman berubah"
+msgstr ""
 
 #: ../src/undo/InsertDeletePageUndoAction.cpp:98
 msgid "Page deleted"
-msgstr "Halaman dihapus"
+msgstr ""
 
 #: ../src/undo/InsertDeletePageUndoAction.cpp:94
 msgid "Page inserted"
-msgstr "Halaman disisipkan"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageSpinner.cpp:60
 msgid "Page number"
-msgstr "Nomor halaman"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:364
 msgid "Paired pages"
-msgstr "Halaman berpasangan"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:349
 #: ../src/undo/AddUndoAction.cpp:77
 msgid "Paste"
-msgstr "Tempel"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:442
 msgid "Pause / Play"
-msgstr "Jeda / Mainkan"
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:83
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:231
 msgid "Pen"
-msgstr "Pena"
+msgstr ""
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:21
 msgid "Plain"
-msgstr "Polos"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:433
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:22
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:77
 msgid "Play Object"
-msgstr "Mainkan Objek"
+msgstr ""
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:17
 msgid "Predefined"
-msgstr "Sudah ditentukan"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:366
 msgid "Presentation mode"
-msgstr "Mode presentasi"
+msgstr ""
 
 #: ../src/gui/dialog/LanguageConfigGui.cpp:68
 msgid "Previously selected language not available anymore!"
@@ -1000,159 +990,159 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:336
 msgid "Print"
-msgstr "Cetak"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:440
 msgid "Record Audio / Stop Recording"
-msgstr "Rekam Audio / Hentikan Perekaman"
+msgstr ""
 
 #: ../src/control/Control.cpp:874
 msgid "Recorder could not be started."
-msgstr "Perekam tidak dapat dimulai."
+msgstr ""
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:16
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:100
 msgid "Red"
-msgstr "Merah"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:343
 #: ../src/undo/UndoRedoHandler.cpp:217
 msgid "Redo"
-msgstr "Ulangi"
+msgstr ""
 
 #: ../src/undo/UndoRedoHandler.cpp:212
 msgid "Redo: "
-msgstr "Ulangi: "
+msgstr ""
 
 #: ../src/control/Control.cpp:2010
 msgid "Remove PDF Background"
-msgstr "Buang Latar Belakang PDF"
+msgstr ""
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:173
 msgid "Removed tool item from Toolbar {1} ID {2}"
-msgstr "Item alat dibuang dari Bilah Alat {1} ID {2}"
+msgstr ""
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:171
 msgid "Removed tool item {1} from Toolbar {2} ID {3}"
-msgstr "Item alat {1} dibuang dari Bilah Alat {2} ID {3}"
+msgstr ""
 
 #: ../src/undo/LayerRenameUndoAction.cpp:15
 msgid "Rename layer"
-msgstr "Ganti nama layer"
+msgstr ""
 
 #: ../src/util/XojMsgBox.cpp:77
 msgid "Replace"
-msgstr "Ganti"
+msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:1056
 msgid "Requested temporary file was not found for attachment {1}"
-msgstr "Berkas sementara yang diminta tidak ditemukan untuk lampiran {1}"
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:210
 msgid "Restore file"
-msgstr "Pulihkan berkas"
+msgstr ""
 
 #: ../src/undo/RotateUndoAction.cpp:51
 msgid "Rotation"
-msgstr "Rotasi"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:356
 msgid "Rotation Snapping"
-msgstr "Lengketkan Rotasi"
+msgstr ""
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:22
 msgid "Ruled"
-msgstr "Bergaris"
+msgstr ""
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:23
 msgid "Ruled with vertical line"
-msgstr "Bergaris dengan garis vertikal"
+msgstr ""
 
 #: ../src/control/jobs/CustomExportJob.cpp:23
 msgid "SVG graphics"
-msgstr "Grafik SVG"
+msgstr ""
 
 #: ../src/gui/dialog/LatexSettingsPanel.cpp:63
 msgid "Sample LaTeX file generated successfully."
-msgstr "Sampel berkas LaTeX berhasil dibuat."
+msgstr ""
 
 #: ../src/control/Control.cpp:2454 ../src/control/jobs/SaveJob.cpp:15
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:335
 msgid "Save"
-msgstr "Simpan"
+msgstr ""
 
 #: ../src/control/Control.cpp:2454
 msgid "Save As..."
-msgstr "Simpan Sebagai..."
+msgstr ""
 
 #: ../src/control/Control.cpp:2299 ../src/gui/dialog/PageTemplateDialog.cpp:77
 msgid "Save File"
-msgstr "Simpan Berkas"
+msgstr ""
 
 #: ../src/control/jobs/CustomExportJob.cpp:130
 #: ../src/control/jobs/SaveJob.cpp:113
 msgid "Save file error: {1}"
-msgstr "Kesalahan saat menyimpan berkas: {1}"
+msgstr ""
 
 #: ../src/undo/ScaleUndoAction.cpp:56
 msgid "Scale"
-msgstr "Skala"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:351
 msgid "Search"
-msgstr "Cari"
+msgstr ""
 
 #: ../src/gui/dialog/AboutDialog.cpp:33
 msgid "See the full list of contributors"
-msgstr "Lihat daftar lengkap kontributor"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:436
 msgid "Select Font"
-msgstr "Pilih Fonta"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:431
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:21
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:71
 msgid "Select Object"
-msgstr "Pilih Objek"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:430
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:19
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:59
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:92
 msgid "Select Rectangle"
-msgstr "Pilih Persegi"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:428
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:20
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:65
 msgid "Select Region"
-msgstr "Pilih Bidang"
+msgstr ""
 
 #: ../src/control/Control.cpp:2009
 msgid "Select another PDF"
-msgstr "Pilih PDF lain"
+msgstr ""
 
 #: ../src/util/XojMsgBox.cpp:76
 msgid "Select another name"
-msgstr "Pilih nama lain"
+msgstr ""
 
 #: ../src/gui/dialog/SelectBackgroundColorDialog.cpp:104
 msgid "Select background color"
-msgstr "Pilih warna latar belakang"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ColorToolItem.cpp:42
 #: ../src/gui/toolbarMenubar/ColorToolItem.cpp:94
 msgid "Select color"
-msgstr "Pilih warna"
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:90
 msgid "Select rectangle"
-msgstr "Pilih persegi"
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:89
 msgid "Select region"
-msgstr "Pilih bidang"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:16
 msgid "Selection Combo"
@@ -1160,7 +1150,7 @@ msgstr ""
 
 #: ../src/control/XournalMain.cpp:164
 msgid "Send Bugreport"
-msgstr "Kirim Laporan Kutu"
+msgstr ""
 
 #: ../src/control/tools/EditSelection.cpp:368
 msgid "Send backward"
@@ -1172,7 +1162,7 @@ msgstr ""
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:47
 msgid "Separator"
-msgstr "Pemisah"
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:672
 msgid "Set DPI for PNG exports. Default is 300\n"
@@ -1193,53 +1183,51 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:419
 msgid "Shape Recognizer"
-msgstr "Pengenal Bentuk"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:68
 msgid "Show all"
-msgstr "Tampilkan semua"
+msgstr ""
 
 #: ../src/gui/dialog/backgroundSelect/PdfPagesDialog.cpp:88
 msgid "Show only not used pages (one unused page)"
-msgstr "Tampilkan hanya halaman yang tidak digunakan (satu halaman tak digunakan)"
+msgstr ""
 
 #: ../src/gui/dialog/backgroundSelect/PdfPagesDialog.cpp:89
 msgid "Show only not used pages ({1} unused pages)"
-msgstr "Tampilkan hanya halaman yang tidak digunakan ({1} halaman tak digunakan)"
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:543
 msgid "Sorry, Xournal++ can only open one file at once.\n"
 "Others are ignored."
-msgstr "Maaf, Xournal++ hanya dapat membuka satu berkas dalam satu waktu.\n"
-"Berkas lain diabaikan."
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:558
 msgid "Sorry, Xournal++ cannot open remote files at the moment.\n"
 "You have to copy the file to a local directory."
-msgstr "Maaf, Xournal++ saat ini tidak dapat membuka berkas remote.\n"
-"Anda harus menyalin berkas itu ke direktori lokal."
+msgstr ""
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:24
 msgid "Staves"
-msgstr "Paranada"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:445
 msgid "Stop"
-msgstr "Berhenti"
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:131
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:42
 #: ../src/undo/RecognizerUndoAction.cpp:72
 msgid "Stroke recognizer"
-msgstr "Pengenal goresan"
+msgstr ""
 
 #: ../src/util/CrashHandler.cpp:41
 msgid "Successfully saved document to \"{1}\""
-msgstr "Berhasil menyimpan dokumen ke \"{1}\""
+msgstr ""
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:93
 msgid "Supported files"
-msgstr "Berkas yang didukung"
+msgstr ""
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:54
 msgid "Swap the current layer with the one above"
@@ -1251,53 +1239,53 @@ msgstr ""
 
 #: ../src/gui/sidebar/previews/page/SidebarPreviewPages.cpp:67
 msgid "Swap the current page with the one above"
-msgstr "Tukar halaman saat ini dengan halaman di atas"
+msgstr ""
 
 #: ../src/gui/sidebar/previews/page/SidebarPreviewPages.cpp:68
 msgid "Swap the current page with the one below"
-msgstr "Tukar halaman saat ini dengan halaman di bawah"
+msgstr ""
 
 #: ../src/gui/dialog/LanguageConfigGui.cpp:52
 msgid "System Default"
-msgstr "Sistem Bawaan"
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:86
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:414
 msgid "Text"
-msgstr "Teks"
+msgstr ""
 
 #: ../src/gui/SearchBar.cpp:67
 #, c-format
 msgid "Text %i times found on this page"
-msgstr "Teks ditemukan %i kali di halaman ini"
+msgstr ""
 
 #: ../src/undo/TextUndoAction.cpp:30
 msgid "Text changes"
-msgstr "Perubahan teks"
+msgstr ""
 
 #: ../src/gui/SearchBar.cpp:65
 msgid "Text found on this page"
-msgstr "Teks ditemukan di halaman ini"
+msgstr ""
 
 #: ../src/gui/SearchBar.cpp:123 ../src/gui/SearchBar.cpp:167
 msgid "Text found once on page {1}"
-msgstr "Teks ditemukan satu kali di halaman {1}"
+msgstr ""
 
 #: ../src/gui/SearchBar.cpp:124 ../src/gui/SearchBar.cpp:168
 msgid "Text found {1} times on page {2}"
-msgstr "Teks ditemukan {1} kali di halaman {2}"
+msgstr ""
 
 #: ../src/gui/SearchBar.cpp:72
 msgid "Text not found"
-msgstr "Teks tidak ditemukan"
+msgstr ""
 
 #: ../src/gui/SearchBar.cpp:134 ../src/gui/SearchBar.cpp:178
 msgid "Text not found, searched on all pages"
-msgstr "Teks tidak ditemukan, mencari di semua halaman"
+msgstr ""
 
 #: ../src/control/Control.cpp:1065
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
-msgstr "Konfigurasi bilah alat \"{1}\" sudah ada secara bawaan, apakah Anda ingin membuat salinan untuk mengeditnya?"
+msgstr ""
 
 #: ../src/control/Control.cpp:1998
 msgid "The attached background file {1} could not be found. It might have been moved, renamed or deleted.\n"
@@ -1319,72 +1307,72 @@ msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:119
 msgid "The file is no valid .xopp file (Mimetype missing): \"{1}\""
-msgstr "Bukan berkas .xopp yang valid (Time mime tidak ada): \"{1}\""
+msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:126
 msgid "The file is no valid .xopp file (Mimetype wrong): \"{1}\""
-msgstr "Bukan berkas .xopp yang valid (Tipe mime salah): \"{1}\""
+msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:135
 msgid "The file is no valid .xopp file (Version missing): \"{1}\""
-msgstr "Bukan berkas .xopp yang valid (Versi tidak ada): \"{1}\""
+msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:147
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
-msgstr "Bukan berkas .xopp yang valid (String versi rusak): \"{1}\""
+msgstr ""
 
 #: ../src/control/LatexController.cpp:240
 msgid "The formula is empty when rendered or invalid."
-msgstr "Rumus kosong saat dirender atau tidak valid."
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:159
 msgid "The most recent log file name: {1}"
-msgstr "Nama berkas log terkini: {1}"
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:154
 msgid "There are errorlogfiles from Xournal++. Please send a Bugreport, so the bug may be fixed."
-msgstr "Terdapat berkas log kesalahan dari Xournal++. Silakan mengirim laporan kutu, agar kami dapat memperbaikinya."
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:153
 msgid "There is an errorlogfile from Xournal++. Please send a Bugreport, so the bug may be fixed."
-msgstr "Terdapat berkas log kesalahan dari Xournal++. Silakan mengirim laporan kutu, agar kami dapat memperbaikinya."
+msgstr ""
 
 #: ../src/util/XojMsgBox.cpp:95
 msgid "There was an error displaying help: {1}"
-msgstr "Terjadi kesalahan saat menampilkan bantuan: {1}"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:490
 msgid "Thick"
-msgstr "Tebal"
+msgstr ""
 
 #: ../src/control/Control.cpp:2453
 msgid "This document is not saved yet."
-msgstr "Dokumen ini belum disimpan."
+msgstr ""
 
 #: ../src/control/PageBackgroundChangeController.cpp:144
 #: ../src/control/tools/ImageHandler.cpp:44
 msgid "This image could not be loaded. Error message: {1}"
-msgstr "Gambar ini tidak dapat dimuat. Pesan kesalahan: {1}"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:367
 msgid "Toggle fullscreen"
-msgstr "Beralih ke layar penuh"
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:82
 msgid "Tool - don't change"
-msgstr "Alat - jangan diubah"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/model/ToolbarData.cpp:108
 msgid "Toolbar found: {1}"
-msgstr "Bilah Alat ditemukan: {1}"
+msgstr ""
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:45
 msgid "Toolbars"
-msgstr "Bilah Alat"
+msgstr ""
 
 #: ../src/util/CrashHandler.cpp:30
 msgid "Trying to emergency save the current open document…"
-msgstr "Mencoba menyimpan darurat dokumen yang sedang dibuka…"
+msgstr ""
 
 #: ../src/gui/dialog/LatexSettingsPanel.cpp:53
 msgid "Unable to open global template file at {1}. Does it exist?"
@@ -1401,120 +1389,119 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:342
 #: ../src/undo/UndoRedoHandler.cpp:205
 msgid "Undo"
-msgstr "Urungkan"
+msgstr ""
 
 #: ../src/undo/UndoRedoHandler.cpp:200
 msgid "Undo: "
-msgstr "Urungkan: "
+msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:286
 msgid "Unexpected root tag: {1}"
-msgstr "Tag akar tak diharapkan: {1}"
+msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:307
 msgid "Unexpected tag in document: \"{1}\""
-msgstr "Tag tak diharapkan di dokumen: \"{1}\""
+msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:496
 msgid "Unknown background type: {1}"
-msgstr "Tipe latar belakang tidak diketahui: {1}"
+msgstr ""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:62
 msgid "Unknown color value \"{1}\""
-msgstr "Nilai warna tidak diketahui \"{1}\""
+msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:450
 msgid "Unknown domain type: {1}"
-msgstr "Tipe domain tidak diketahui: {1}"
+msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:226
 msgid "Unknown parser error"
-msgstr "Kesalahan pengurai tidak diketahui"
+msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:397
 msgid "Unknown pixmap::domain type: {1}"
-msgstr "Tipe pixmap::domain tidak diketahui: {1}"
+msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:593
 msgid "Unknown stroke type: \"{1}\", assuming pen"
-msgstr "Tipe goresan tidak diketahui: \"{1}\", diasumsikan pena"
+msgstr ""
 
 #: ../src/control/Control.cpp:2356
 msgid "Unsaved Document"
-msgstr "Dokumen Belum Disimpan"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:432
 msgid "Vertical Space"
-msgstr "Ruang Vertikal"
+msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:88
 msgid "Vertical space"
-msgstr "Ruang vertikal"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:487
 msgid "Very Fine"
-msgstr "Sangat Halus"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:491
 msgid "Very Thick"
-msgstr "Sangat Tebal"
+msgstr ""
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:20
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:104
 msgid "White"
-msgstr "Putih"
+msgstr ""
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:33
 msgid "With PDF background"
-msgstr "Dengan latar belakang PDF"
+msgstr ""
 
 #: ../src/undo/InsertUndoAction.cpp:32
 msgid "Write text"
-msgstr "Tulis teks"
+msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:910
 msgid "Wrong count of points ({1})"
-msgstr "Kesalahan perhitungan titik ({1})"
+msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:920
 msgid "Wrong number of points, got {1}, expected {2}"
-msgstr "Kesalahan perhitungan titik, mendapatkan {1}, mengharapkan {2}"
+msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:223
 msgid "XML Parser error: {1}"
-msgstr "Kesalahan Pengurai XML: {1}"
+msgstr ""
 
 #: ../src/control/jobs/CustomExportJob.cpp:24
 msgid "Xournal (Compatibility)"
-msgstr "Xournal (Kompatibilitas)"
+msgstr ""
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:51
 msgid "Xournal files"
-msgstr "Berkas Xournal"
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:204
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
-msgstr "Xournal++ telah mengalami crash. Apakah Anda ingin mengembalikan berkas yang terakhir diedit?"
+msgstr ""
 
 #: ../src/control/Control.cpp:2305 ../src/control/stockdlg/XojOpenDlg.cpp:58
 msgid "Xournal++ files"
-msgstr "Berkas Xournal++"
+msgstr ""
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:65
 #: ../src/gui/dialog/PageTemplateDialog.cpp:83
 msgid "Xournal++ template"
-msgstr "Templat Xournal++"
+msgstr ""
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:19
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:103
 msgid "Yellow"
-msgstr "Kuning"
+msgstr ""
 
 #: ../src/control/PageBackgroundChangeController.cpp:179
 msgid "You don't have any PDF pages to select from. Cancel operation.\n"
 "Please select another background type: Menu \"Journal\" → \"Configure Page Template\"."
-msgstr "Anda tidak memiliki halaman PDF yang dapat dipilih. Batalkan operasi.\n"
-"Silakan pilih tipe latar belakang yang lain: Menu \"Jurnal\" → \"Konfigurasi Templat Halaman\"."
+msgstr ""
 
 #: ../src/control/XournalMain.cpp:156
 msgid "You're using \"{1}/{2}\" branch. Send Bugreport will direct you to this repo's issue tracker."
@@ -1524,9 +1511,7 @@ msgstr ""
 msgid "Your current document does not contain PDF Page no {1}\n"
 "Would you like to insert this page?\n\n"
 "Tip: You can select Journal → Paper Background → PDF Background to insert a PDF page."
-msgstr "Dokumen Anda saat ini tidak memiliki Halaman PDF no {1}\n"
-"Apakah Anda ingin menyisipkan halaman ini?\n\n"
-"Tip: Anda bisa memilih Jurnal → Latar Belakang Kertas → Latar Belakang PDF untuk menyisipkan halaman PDF."
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolZoomSlider.cpp:73
 msgid "Zoom Slider"
@@ -1534,72 +1519,72 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:374
 msgid "Zoom fit to screen"
-msgstr "Perbesaran sesuai ukuran layar"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:373
 msgid "Zoom in"
-msgstr "Perbesar"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:372
 msgid "Zoom out"
-msgstr "Perkecil"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:375
 msgid "Zoom to 100%"
-msgstr "Perbesar ke 100%"
+msgstr ""
 
 #: ../src/control/Control.cpp:2299 ../src/control/jobs/BaseExportJob.cpp:19
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:12
 #: ../src/control/stockdlg/XojOpenDlg.cpp:12
 #: ../src/gui/dialog/PageTemplateDialog.cpp:78
 msgid "_Cancel"
-msgstr "_Batal"
+msgstr ""
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:13
 #: ../src/control/stockdlg/XojOpenDlg.cpp:13
 msgid "_Open"
-msgstr "B_uka"
+msgstr ""
 
 #: ../src/control/Control.cpp:2300 ../src/control/jobs/BaseExportJob.cpp:19
 #: ../src/gui/dialog/PageTemplateDialog.cpp:78
 msgid "_Save"
-msgstr "_Simpan"
+msgstr ""
 
 #: ../src/util/DeviceListHelper.cpp:111
 msgid "cursor"
-msgstr "kursor"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:239
 msgid "dash-/ dotted"
-msgstr "garis-/ titik"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:236
 msgid "dashed"
-msgstr "garis putus-putus"
+msgstr ""
 
 #: ../src/gui/dialog/PluginDialogEntry.cpp:25
 msgid "default disabled"
-msgstr "nonaktifkan bawaan"
+msgstr ""
 
 #: ../src/gui/dialog/PluginDialogEntry.cpp:25
 msgid "default enabled"
-msgstr "aktifkan bawaan"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:254
 msgid "delete stroke"
-msgstr "hapus goresan"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:242
 msgid "dotted"
-msgstr "titik-titik"
+msgstr ""
 
 #: ../src/undo/AddUndoAction.cpp:86 ../src/undo/DeleteUndoAction.cpp:83
 msgid "elements"
-msgstr "elemen"
+msgstr ""
 
 #: ../src/util/DeviceListHelper.cpp:109
 msgid "eraser"
-msgstr "penghapus"
+msgstr ""
 
 #: ../src/control/Control.cpp:1970
 msgid "file: {1}"
@@ -1607,36 +1592,36 @@ msgstr ""
 
 #: ../src/undo/AddUndoAction.cpp:97 ../src/undo/DeleteUndoAction.cpp:94
 msgid "image"
-msgstr "gambar"
+msgstr ""
 
 #: ../src/util/DeviceListHelper.cpp:114
 msgid "keyboard"
-msgstr "papan tik"
+msgstr ""
 
 #: ../src/undo/AddUndoAction.cpp:100 ../src/undo/DeleteUndoAction.cpp:97
 msgid "latex"
-msgstr "latex"
+msgstr ""
 
 #: ../src/util/DeviceListHelper.cpp:105
 msgid "mouse"
-msgstr "tetikus"
+msgstr ""
 
 #: ../src/util/DeviceListHelper.cpp:107
 msgid "pen"
-msgstr "pena"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:158
 msgid "show"
-msgstr "tampilkan"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:233
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:252
 msgid "standard"
-msgstr "standar"
+msgstr ""
 
 #: ../src/undo/AddUndoAction.cpp:94 ../src/undo/DeleteUndoAction.cpp:91
 msgid "stroke"
-msgstr "goresan"
+msgstr ""
 
 #: ../src/util/DeviceListHelper.cpp:123
 msgid "tablet pad"
@@ -1644,71 +1629,71 @@ msgstr ""
 
 #: ../src/undo/AddUndoAction.cpp:103 ../src/undo/DeleteUndoAction.cpp:100
 msgid "text"
-msgstr "teks"
+msgstr ""
 
 #: ../src/util/DeviceListHelper.cpp:118
 msgid "touchpad"
-msgstr "perangkat sentuh"
+msgstr ""
 
 #: ../src/util/DeviceListHelper.cpp:116
 msgid "touchscreen"
-msgstr "layar sentuh"
+msgstr ""
 
 #: ../src/util/DeviceListHelper.cpp:121
 msgid "trackpoint"
-msgstr "titik lintasan"
+msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:253
 msgid "whiteout"
-msgstr "putihkan"
+msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:919
 msgid "xoj-File: {1}"
-msgstr "xoj-File: {1}"
+msgstr ""
 
 #: ../src/xoj-preview-extractor/xournalpp-thumbnailer.cpp:111
 msgid "xoj-preview-extractor: call with INPUT.xoj OUTPUT.png"
-msgstr "xoj-preview-extractor: panggil dengan INPUT.xoj OUTPUT.png"
+msgstr ""
 
 #: ../src/xoj-preview-extractor/xournalpp-thumbnailer.cpp:177
 msgid "xoj-preview-extractor: could not find icon \"{1}\""
-msgstr "xoj-preview-extractor: tidak dapat menemukan ikon \"{1}\""
+msgstr ""
 
 #: ../src/xoj-preview-extractor/xournalpp-thumbnailer.cpp:132
 msgid "xoj-preview-extractor: file \"{1}\" contains no preview"
-msgstr "xoj-preview-extractor: berkas \"{1}\" tidak memiliki pratinjau"
+msgstr ""
 
 #: ../src/xoj-preview-extractor/xournalpp-thumbnailer.cpp:124
 msgid "xoj-preview-extractor: file \"{1}\" is not .xoj file"
-msgstr "xoj-preview-extractor: berkas \"{1}\" bukan berkas .xoj"
+msgstr ""
 
 #: ../src/xoj-preview-extractor/xournalpp-thumbnailer.cpp:137
 msgid "xoj-preview-extractor: no preview and page found, maybe an invalid file?"
-msgstr "xoj-preview-extractor: pratinjau dan halaman tidak ditemukan, mungkin berkas tidak valid?"
+msgstr ""
 
 #: ../src/xoj-preview-extractor/xournalpp-thumbnailer.cpp:128
 msgid "xoj-preview-extractor: opening input file \"{1}\" failed"
-msgstr "xoj-preview-extractor: gagal membuka berkas masukan \"{1}\""
+msgstr ""
 
 #: ../src/xoj-preview-extractor/xournalpp-thumbnailer.cpp:194
 msgid "xoj-preview-extractor: opening output file \"{1}\" failed"
-msgstr "xoj-preview-extractor: gagal membuka berkas keluaran \"{1}\""
+msgstr ""
 
 #: ../src/xoj-preview-extractor/xournalpp-thumbnailer.cpp:201
 msgid "xoj-preview-extractor: successfully extracted"
-msgstr "xoj-preview-extractor: berhasil diekstrak"
+msgstr ""
 
 #: ../src/util/PathUtil.cpp:239
 msgid "xournalpp-{1}"
-msgstr "xournalpp-{1}"
+msgstr ""
 
 #: ../ui/main.glade:31
 msgid " = Floating Toolbox (experimental) ="
-msgstr " = Kotak Alat Melayang (eksperimental) ="
+msgstr ""
 
 #: ../ui/settings.glade:3637 ../ui/settings.glade:3648
 msgid "%"
-msgstr "%"
+msgstr ""
 
 #: ../ui/settings.glade:2431
 msgid "% greater than the initial distance between the two touches."
@@ -1755,8 +1740,7 @@ msgstr ""
 #: ../ui/settings.glade:4461
 msgid "... AND How much time must have passed since last stroke.\n\n"
 "<i>Recommended: 500ms</i>"
-msgstr "... DAN Berapa berapa lama waktu sejak goresan terakhir.\n\n"
-"<i>Direkomendasikan: 500ms</i>"
+msgstr ""
 
 #: ../ui/settings.glade:1079
 msgid "0,4"
@@ -1800,27 +1784,27 @@ msgstr ""
 
 #: ../ui/images.glade:88
 msgid "<b>... or select already used Image:</b>"
-msgstr "<b>... atau pilih gambar yang telah digunakan:</b>"
+msgstr ""
 
 #: ../ui/pageTemplate.glade:245
 msgid "<b>Background Color</b>"
-msgstr "<b>Warna Latar Belakang</b>"
+msgstr ""
 
 #: ../ui/pageTemplate.glade:258
 msgid "<b>Background</b>"
-msgstr "<b>Latar Belakang</b>"
+msgstr ""
 
 #: ../ui/toolbarCustomizeDialog.glade:141
 msgid "<b>Color</b>"
-msgstr "<b>Warna</b>"
+msgstr ""
 
 #: ../ui/toolbarCustomizeDialog.glade:86
 msgid "<b>Default Tools</b>"
-msgstr "<b>Alat Bawaan</b>"
+msgstr ""
 
 #: ../ui/settings.glade:4779
 msgid "<b>Default</b>"
-msgstr "<b>Bawaan</b>"
+msgstr ""
 
 #: ../ui/exportSettings.glade:122
 msgid "<b>Document export settings</b>\n"
@@ -1830,8 +1814,7 @@ msgstr ""
 #: ../ui/main.glade:110
 msgid "<b>Empty Toolbox</b>\n"
 "<i>Menu: View/Toolbars</i>"
-msgstr "<b>Kotak Alat Kosong</b>\n"
-"<i>Menu: Lihat/Bilah Alat</i>"
+msgstr ""
 
 #: ../ui/fillOpacity.glade:80
 msgid "<b>Fill opacity settings</b>\n"
@@ -1840,49 +1823,48 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:135
 msgid "<b>Page size</b>"
-msgstr "<b>Ukuran halaman</b>"
+msgstr ""
 
 #: ../ui/pagesize.glade:142
 msgid "<b>Pagesize</b>"
-msgstr "<b>Ukuran Halaman</b>"
+msgstr ""
 
 #: ../ui/toolbarCustomizeDialog.glade:196
 msgid "<b>Separator</b>"
-msgstr "<b>Pemisah</b>"
+msgstr ""
 
 #: ../ui/settings.glade:767
 msgid "<i>Assign device classes to each input device of your system. Only change these values if your devices are not correctly matched. (e.g. your pen shows up as touchscreen)</i>"
-msgstr "<i>Tetapkan kelas perangkat untuk setiap perangkat masukan pada sistem Anda. Hanya ubah nilai tersebut jika perangkat Anda tidak sesuai. (mis. pena muncul sebagai layar sentuh)</i>"
+msgstr ""
 
 #: ../ui/settings.glade:4870
 msgid "<i>Audio recordings are currently stored in a separate folder and referenced from the journal.</i>"
-msgstr "<i>Rekaman audio saat ini disimpan pada sebuah folder terpisah dan direferensikan dari jurnal.</i>"
+msgstr ""
 
 #: ../ui/settings.glade:5212
 msgid "<i>Changes take only effect on new recordings and playbacks.</i>"
-msgstr "<i>Perubahan hanya berlaku pada rekaman dan pemutaran baru.</i>"
+msgstr ""
 
 #: ../ui/settings.glade:1316
 msgid "<i>Define which tools will be selected if you press a mouse button. After you release the button the previously selected tool will be selected.</i>"
-msgstr "<i>Tentukan alat yang akan dipilih jika Anda menekan sebuah tombol pada tetikus. Setelah tombol dilepas, alat yang dipilih sebelumnya akan dipilih.</i>"
+msgstr ""
 
 #: ../ui/exportSettings.glade:240
 msgid "<i>Example:</i> 1-3 or 1,3,5-7 etc."
-msgstr "<i>Contoh:</i> 1-3 atau 1,3,5-7 dsb."
+msgstr ""
 
 #: ../ui/settings.glade:346
 msgid "<i>If the document already was saved you can find it in the same folder with the extension .autosave.xoj\n"
 "If the file was not yet saved you can find it in your home directory, in ~/.xournalpp/autosave</i>"
-msgstr "<i>Jika dokumen sudah disimpan, Anda bisa menemukannya di folder yang sama dengan ekstensi .autosave.xoj\n"
-"Jika berkas belum disimpan, Anda bisa menemukannya di direktori home Anda, ~/.xournalpp/autosave</i>"
+msgstr ""
 
 #: ../ui/settings.glade:3868
 msgid "<i>If you add additional space beside the pages you can choose the area of the screen you would like to work on.</i>"
-msgstr "<i>Jika Anda memberikan ruang tambahan di samping halaman, Anda bisa memilih area layar yang akan digunakan untuk bekerja.</i>"
+msgstr ""
 
 #: ../ui/settings.glade:2066
 msgid "<i>If your hardware does not support hand recognition, Xournal++ can disable your touchscreen when your pen is near the screen.</i>"
-msgstr "<i>Jika perangkat Anda tidak mendukung pengenal tangan, Xournal++ bisa menonaktifkan layar sentuh Anda saat pena berada di dekat layar.</i>"
+msgstr ""
 
 #: ../ui/settings.glade:989
 msgid "<i>Pick an input stabilization algorithm and its parameters</i>"
@@ -1890,11 +1872,11 @@ msgstr ""
 
 #: ../ui/settings.glade:1494
 msgid "<i>Pressure Sensitivity allows you to draw lines with different widths, depending on how much pressure you apply to the pen. If your tablet does not support this feature this setting has no effect.</i>"
-msgstr "<i>Sensitivitas Tekanan mengijinkan Anda menggambar garis dengan lebar yang berbeda, tergantung pada seberapa besar tekanan yang Anda berikan pada pena. Jika tablet Anda tidak mendukung fitur ini, maka pengaturan ini tidak berpengaruh.</i>"
+msgstr ""
 
 #: ../ui/settings.glade:3715
 msgid "<i>Put a ruler on your screen and move the slider until both rulers match.</i>"
-msgstr "<i>Letakkan sebuah penggaris pada layar Anda dan gerakkan slider sampai kedua penggaris cocok.</i>"
+msgstr ""
 
 #: ../ui/settings.glade:4564
 msgid "<i>Re-render PDF backgrounds more often while zooming for better render quality. \n"
@@ -1907,7 +1889,7 @@ msgstr ""
 
 #: ../ui/settings.glade:4725
 msgid "<i>Select the tool and Settings if you press the Default Button.</i>"
-msgstr "<i>Pilih alat dan Pengaturan jika Anda menekan Tombol Bawaan.</i>"
+msgstr ""
 
 #: ../ui/settings.glade:1543
 msgid "<i>Some devices report unexpectedly small or large pressures. This can be fixed by setting a minimum pressure or scaling the pressure reported by the device.</i>"
@@ -1915,7 +1897,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2206
 msgid "<i>Specify commands that are called once Hand Recognition triggers. The commands will be executed in the UI Thread, make sure they are not blocking!</i>"
-msgstr "<i>Tentukan perintah yang akan dipanggil ketika dipicu oleh Pengenal Tangan. Perintah akan dieksekusi pada Thread UI, pastikan mereka tidak menghalangi!</i>"
+msgstr ""
 
 #: ../ui/settings.glade:4959
 msgid "<i>Specify the audio devices used for recording and playback of audio attachments.\n"
@@ -1924,23 +1906,23 @@ msgstr ""
 
 #: ../ui/settings.glade:1784
 msgid "<i>Specify the tools that will be selected if a button of the stylus is pressed or the eraser is used. After releasing the button, the previous tool will be selected.</i>"
-msgstr "<i>Tentukan alat yang akan dipilih ketika sebuah tombol pada stylus ditekan atau penghapus sedang digunakan. Setelah tombol dilepas, alat sebelumnya akan dipilih.</i>"
+msgstr ""
 
 #: ../ui/settings.glade:476
 msgid "<i>This name will be proposed if you save a new document.</i>"
-msgstr "<i>Nama ini akan diusulkan ketika Anda menyimpan sebuah dokumen baru.</i>"
+msgstr ""
 
 #: ../ui/settings.glade:3694
 msgid "<i>To make sure on 100% zoom the size of elements is natural. (requires restart)</i>"
-msgstr "<i>Untuk memastikan pada perbesaran 100% setiap elemen memiliki ukuran natural. (perlu mulai ulang)</i>"
+msgstr ""
 
 #: ../ui/settings.glade:2625
 msgid "<i>Toggle visibility of menubar with F10</i>"
-msgstr "<i>Alih visibilitas bilah menu dengan F10</i>"
+msgstr ""
 
 #: ../ui/settings.glade:2368
 msgid "<i>Use pinch gestures to zoom journal pages.</i>"
-msgstr "<i>Gunakan gestur cubit untuk mengatur perbesaran halaman jurnal.</i>"
+msgstr ""
 
 #: ../ui/settings.glade:2484
 msgid "<i>Use the touchscreen like a multi-touch-aware pen.</i>"
@@ -1952,29 +1934,28 @@ msgstr ""
 
 #: ../ui/settings.glade:2000
 msgid "<i>You can configure devices, not identified by GTK as touchscreen, to behave as if they were one.</i>"
-msgstr "<i>Anda bisa mengkonfigurasi perangkat yang tidak dikenali oleh GTK sebagai layar sentuh, untuk berlaku sebagai sebuah perangkat layar sentuh.</i>"
+msgstr ""
 
 #: ../ui/about.glade:203
 msgid "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
 "<i>The next generation</i>"
-msgstr "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
-"<i>Generasi berikutnya</i>"
+msgstr ""
 
 #: ../ui/about.glade:9
 msgid "About Xournal++"
-msgstr "Tentang Xournal++"
+msgstr ""
 
 #: ../ui/settings.glade:4533
 msgid "Action on Tool Tap"
-msgstr "Aksi pada Tap Alat"
+msgstr ""
 
 #: ../ui/settings.glade:3920
 msgid "Add additional horizontal space of"
-msgstr "Tambah ruang horisontal tambahan dari"
+msgstr ""
 
 #: ../ui/settings.glade:3898
 msgid "Add additional vertical space of"
-msgstr "Tambah ruang vertikal tambahan dari"
+msgstr ""
 
 #: ../ui/main.glade:1967
 msgid "Add/Edit TeX"
@@ -1990,13 +1971,12 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:174
 msgid "All pages"
-msgstr "Semua halaman"
+msgstr ""
 
 #: ../ui/settings.glade:4498
 msgid "All three conditions must be met before stroke is ignored.\n"
 "It must be short in time and length and we can't have ignored another stroke recently."
-msgstr "Keseluruhan ketiga kondisi harus dipenuhi sebelum goresan diabaikan.\n"
-"Goresan harus terjadi dalam waktu singkat dan berukuran pendek, dan baru-baru ini belum ada goresan yang diabaikan."
+msgstr ""
 
 #: ../ui/latexSettings.glade:45
 msgid "Always check LaTeX dependencies before running"
@@ -2016,15 +1996,15 @@ msgstr ""
 
 #: ../ui/settings.glade:5039
 msgid "Audio Devices"
-msgstr "Perangkat Audio"
+msgstr ""
 
 #: ../ui/settings.glade:5244
 msgid "Audio Recording"
-msgstr "Rekaman Audio"
+msgstr ""
 
 #: ../ui/pluginEntry.glade:57
 msgid "Author: "
-msgstr "Penulis: "
+msgstr ""
 
 #: ../ui/about.glade:449
 msgid "Authors"
@@ -2032,7 +2012,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2136
 msgid "Autodetect"
-msgstr "Deteksi Otomatis"
+msgstr ""
 
 #: ../ui/settings.glade:689
 msgid "Autoloading"
@@ -2040,11 +2020,11 @@ msgstr ""
 
 #: ../ui/settings.glade:446
 msgid "Autosaving"
-msgstr "Simpan Otomatis"
+msgstr ""
 
 #: ../ui/settings.glade:594
 msgid "Available Placeholders"
-msgstr "Tempat Penampungan Tersedia"
+msgstr ""
 
 #: ../ui/settings.glade:956
 msgid "Averaging method"
@@ -2052,7 +2032,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2689
 msgid "Background color between pages"
-msgstr "Warna latar belakang antar halaman"
+msgstr ""
 
 #: ../ui/settings.glade:2848
 msgctxt "stylus cursor uses a big pen icon"
@@ -2069,11 +2049,11 @@ msgstr ""
 
 #: ../ui/settings.glade:2678
 msgid "Border color"
-msgstr "Warna garis tepi"
+msgstr ""
 
 #: ../ui/settings.glade:2663
 msgid "Border color for current page and other selections"
-msgstr "Warna garis tepi untuk halaman saat ini dan item lain yang dipilih"
+msgstr ""
 
 #: ../ui/main.glade:321
 msgid "Bring Forward"
@@ -2089,15 +2069,15 @@ msgstr ""
 
 #: ../ui/about.glade:99
 msgid "Built on"
-msgstr "Dibuat pada"
+msgstr ""
 
 #: ../ui/settings.glade:1824
 msgid "Button 1"
-msgstr "Tombol 1"
+msgstr ""
 
 #: ../ui/settings.glade:1862
 msgid "Button 2"
-msgstr "Tombol 2"
+msgstr ""
 
 #: ../ui/latexSettings.glade:176
 msgid "Choose a global LaTeX template file"
@@ -2117,11 +2097,11 @@ msgstr ""
 
 #: ../ui/settings.glade:2775
 msgid "Colors"
-msgstr "Warna"
+msgstr ""
 
 #: ../ui/main.glade:1207
 msgid "Configure Page Template"
-msgstr "Konfigurasi Templat Halaman"
+msgstr ""
 
 #: ../ui/pageTemplate.glade:18
 msgid "Configure new page template"
@@ -2141,11 +2121,11 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:190
 msgid "Current page"
-msgstr "Halaman saat ini"
+msgstr ""
 
 #: ../ui/settings.glade:3085
 msgid "Cursor"
-msgstr "Kursor"
+msgstr ""
 
 #: ../ui/settings.glade:2830
 msgid "Cursor icon for pen"
@@ -2157,11 +2137,11 @@ msgstr ""
 
 #: ../ui/settings.glade:2312
 msgid "Custom Commands (for Method \"Custom\")"
-msgstr "Perintah Kustom (untuk Metode \"Kustom\")"
+msgstr ""
 
 #: ../ui/settings.glade:2737
 msgid "Dark Theme (requires restart)"
-msgstr "Tema Gelap (perlu dimulai ulang)"
+msgstr ""
 
 #: ../ui/settings.glade:227
 msgid "Deadzone"
@@ -2173,7 +2153,7 @@ msgstr ""
 
 #: ../ui/settings.glade:620
 msgid "Default Save Name"
-msgstr "Nama Simpan Bawaan"
+msgstr ""
 
 #: ../ui/settings.glade:5165
 msgid "Default Seek Time (in seconds)"
@@ -2181,51 +2161,51 @@ msgstr ""
 
 #: ../ui/settings.glade:508
 msgid "Default name: "
-msgstr "Nama bawaan: "
+msgstr ""
 
 #: ../ui/settings.glade:4819
 msgid "Defaults"
-msgstr "Bawaan"
+msgstr ""
 
 #: ../ui/main.glade:1245
 msgid "Delete Layer"
-msgstr "Hapus Lapisan"
+msgstr ""
 
 #: ../ui/settingsButtonConfig.glade:132
 msgid "Delete stroke"
-msgstr "Hapus goresan"
+msgstr ""
 
 #: ../ui/settingsButtonConfig.glade:25
 msgid "Device"
-msgstr "Perangkat"
+msgstr ""
 
 #: ../ui/settings.glade:2240
 msgid "Disable"
-msgstr "Nonaktifkan"
+msgstr ""
 
 #: ../ui/settingsButtonConfig.glade:50
 msgid "Disable drawing for this device"
-msgstr "Nonaktifkan menggambar untuk perangkat ini"
+msgstr ""
 
 #: ../ui/settings.glade:3211
 msgid "Disable scrollbar fade out"
-msgstr "Nonaktifkan bilah gulir menghilang"
+msgstr ""
 
 #: ../ui/settingsDeviceClassConfig.glade:41
 msgid "Disabled"
-msgstr "Dinonaktifkan"
+msgstr ""
 
 #: ../ui/settings.glade:2110
 msgid "Disabling Method"
-msgstr "Metode Penonaktifan"
+msgstr ""
 
 #: ../ui/settings.glade:3786
 msgid "Display DPI Calibration"
-msgstr "Kalibrasi DPI Layar"
+msgstr ""
 
 #: ../ui/settings.glade:4373
 msgid "Do not draw for inputs of short time and length unless it comes in short succession. Instead, show floating toolbox."
-msgstr "Jangan menggambar untuk masukan dalam waktu dan ukuran yang pendek, kecuali jika dilakukan secara berurutan. Sebagai gantinya, tampilkan kotak alat melayang."
+msgstr ""
 
 #: ../ui/settings.glade:1066
 msgid "Drag"
@@ -2243,14 +2223,11 @@ msgid "Drag LEFT from start point acts like shift key is being held.\n"
 "Drag UP acts as if Control key is being held.\n\n"
 "Determination Radius: Radius at which modifiers will lock in until finished drawing.\n\n"
 "<i>Useful for operating without keyboard.</i>"
-msgstr "Seret ke KIRI dari titik mulai berfungsi seperti menahan tombol Shift.\n"
-"Seret ke ATAS berfungsi seprti menahan tombol Control.\n\n"
-"Radius Penentuan: Radius dimana fungsi yang diaktifkan akan terkunci hingga selesai menggambar.\n\n"
-"<i>Berguna untuk operasi tanpa papan tik.</i>"
+msgstr ""
 
 #: ../ui/toolbarCustomizeDialog.glade:57
 msgid "Drag and drop Components fom here to the toolbars and back."
-msgstr "Seret dan jatuhkan Komponen dari sini ke bilah alat dan sebaliknya."
+msgstr ""
 
 #: ../ui/settings.glade:1065 ../ui/settings.glade:1077
 msgid "Drag: If the value is too small, unwanted oscillations may appear. If the value is too high, there will be no stabilization."
@@ -2262,7 +2239,7 @@ msgstr ""
 
 #: ../ui/main.glade:1449
 msgid "Draw _Line"
-msgstr "Gambar _Garis"
+msgstr ""
 
 #: ../ui/settings.glade:2876
 msgid "Draw a transparent circle around the cursor"
@@ -2270,35 +2247,35 @@ msgstr ""
 
 #: ../ui/settings.glade:4674
 msgid "Drawing Area"
-msgstr "Area Gambar"
+msgstr ""
 
 #: ../ui/settings.glade:4141
 msgid "Drawing Tools - Set Modifiers by Draw Direction (Experimental)"
-msgstr "Alat Gambar - Setel Pengubah dengan Arah Gambar (Eksperimental)"
+msgstr ""
 
 #: ../ui/main.glade:2637
 msgid "Duplicate"
-msgstr "Duplikasi"
+msgstr ""
 
 #: ../ui/main.glade:2674
 msgid "Edit (not implemented yet)"
-msgstr "Sunting (belum diimplementasikan)"
+msgstr ""
 
 #: ../ui/settings.glade:2228
 msgid "Enable"
-msgstr "Aktifkan"
+msgstr ""
 
 #: ../ui/settings.glade:4086
 msgid "Enable  with determination radius of "
-msgstr "Aktifkan dengan radius penentuan "
+msgstr ""
 
 #: ../ui/settings.glade:649
 msgid "Enable Autoloading of Journals"
-msgstr "Aktifkan Muat Jurnal Otomatis"
+msgstr ""
 
 #: ../ui/settings.glade:365
 msgid "Enable Autosaving"
-msgstr "Aktifkan Simpan Otomatis"
+msgstr ""
 
 #: ../ui/settings.glade:902
 msgid "Enable Pressure Inference <i>(Guess pressure from drawing speed when device-supplied pressure is not available)</i>"
@@ -2306,11 +2283,11 @@ msgstr ""
 
 #: ../ui/settings.glade:1508
 msgid "Enable Pressure Sensitivity"
-msgstr "Aktifkan Sensitivitas Tekanan"
+msgstr ""
 
 #: ../ui/settings.glade:4368
 msgid "Enable Tap action"
-msgstr "Aksi Aktifkan Tap"
+msgstr ""
 
 #: ../ui/settings.glade:666
 msgid "Enable autoloading of most recent file on application startup"
@@ -2318,11 +2295,11 @@ msgstr ""
 
 #: ../ui/settings.glade:842
 msgid "Enable drawing outside of window <i>(Drawing will not stop at the border of the window)</i>"
-msgstr "Aktifkan menggambar di luar jendela <i>(Gambar tidak akan berhenti di garis batas jendela)</i>"
+msgstr ""
 
 #: ../ui/settings.glade:2080
 msgid "Enable internal Hand Recognition"
-msgstr "Aktifkan Pengenal Tangan internal"
+msgstr ""
 
 #: ../ui/settings.glade:2498
 msgid "Enable touch drawing"
@@ -2330,27 +2307,27 @@ msgstr ""
 
 #: ../ui/settings.glade:2380
 msgid "Enable zoom gestures (requires restart)"
-msgstr "Aktifkan gestur perbesaran (perlu mulai ulang)"
+msgstr ""
 
 #: ../ui/texdialog.glade:72
 msgid "Enter / edit LaTeX Text"
-msgstr "Masukkan / edit Teks LaTeX"
+msgstr ""
 
 #: ../ui/main.glade:1701
 msgid "Eraser Optio_ns"
-msgstr "Opsi Pe_nghapus"
+msgstr ""
 
 #: ../ui/settingsButtonConfig.glade:129
 msgid "Eraser Type - don't change"
-msgstr "Tipe Penghapus - jangan diubah"
+msgstr ""
 
 #: ../ui/exportSettings.glade:56
 msgid "Export"
-msgstr "Ekspor"
+msgstr ""
 
 #: ../ui/main.glade:247
 msgid "Export as..."
-msgstr "Ekspor ke..."
+msgstr ""
 
 #: ../ui/exportSettings.glade:367
 msgid "Export layers progressively"
@@ -2363,7 +2340,7 @@ msgstr ""
 
 #: ../ui/main.glade:1677 ../ui/main.glade:1882
 msgid "Fi_ll"
-msgstr "_Isi"
+msgstr ""
 
 #: ../ui/main.glade:1687 ../ui/main.glade:1892
 msgid "Fill opacity"
@@ -2375,23 +2352,23 @@ msgstr ""
 
 #: ../ui/main.glade:2431
 msgid "Find next occurrence of the search string"
-msgstr "Temukan kemunculan berikutnya untuk string pencarian"
+msgstr ""
 
 #: ../ui/main.glade:2409
 msgid "Find previous occurrence of the search string"
-msgstr "Temukan kemunculan sebelumnya untuk string pencarian"
+msgstr ""
 
 #: ../ui/settings.glade:4025
 msgid "First Page Offset "
-msgstr "Offset Halaman Pertama "
+msgstr ""
 
 #: ../ui/main.glade:532 ../ui/settings.glade:3298
 msgid "Fullscreen"
-msgstr "Layar penuh"
+msgstr ""
 
 #: ../ui/settings.glade:5083
 msgid "Gain"
-msgstr "Gain"
+msgstr ""
 
 #: ../ui/settings.glade:1129 ../ui/settings.glade:1149
 msgid "Gaussian parameter: the higher, the more stabilization and the more lag between your cursor and the painting tip."
@@ -2403,11 +2380,11 @@ msgstr ""
 
 #: ../ui/about.glade:114
 msgid "Git commit"
-msgstr "Git commit"
+msgstr ""
 
 #: ../ui/settings.glade:2793
 msgid "Global"
-msgstr "Global"
+msgstr ""
 
 #: ../ui/latexSettings.glade:101
 msgid "Global template file path"
@@ -2415,7 +2392,7 @@ msgstr ""
 
 #: ../ui/goto.glade:14
 msgid "Go to Page"
-msgstr "Ke Halaman"
+msgstr ""
 
 #: ../ui/settings.glade:4285
 msgid "Grid size"
@@ -2423,15 +2400,15 @@ msgstr ""
 
 #: ../ui/settings.glade:4242
 msgid "Grid snapping tolerance"
-msgstr "Toleransi lengketkan ke kisi"
+msgstr ""
 
 #: ../ui/main.glade:1537
 msgid "H_and Tool"
-msgstr "_Alat Tangan"
+msgstr ""
 
 #: ../ui/settings.glade:2337
 msgid "Hand Recognition"
-msgstr "Pengenal Tangan"
+msgstr ""
 
 #: ../ui/exportSettings.glade:32
 msgid "Height"
@@ -2439,43 +2416,41 @@ msgstr ""
 
 #: ../ui/pagesize.glade:212
 msgid "Height:"
-msgstr "Tinggi:"
+msgstr ""
 
 #: ../ui/main.glade:951 ../ui/settings.glade:3260 ../ui/settings.glade:3327
 msgid "Hide Menubar"
-msgstr "Sembunyikan Bilah Menu"
+msgstr ""
 
 #: ../ui/settings.glade:3276 ../ui/settings.glade:3343
 msgid "Hide Sidebar"
-msgstr "Sembunyikan Bilah Sisi"
+msgstr ""
 
 #: ../ui/settings.glade:3181
 msgid "Hide the horizontal scrollbar"
-msgstr "Sembunyikan bilah gulir horisontal"
+msgstr ""
 
 #: ../ui/settings.glade:3196
 msgid "Hide the vertical scrollbar"
-msgstr "Sembunyikan bilah gulir vertikal"
+msgstr ""
 
 #: ../ui/settings.glade:2871
 msgid "Highlight cursor position"
-msgstr "Sorot posisi kursor"
+msgstr ""
 
 #: ../ui/main.glade:1810
 msgid "Highlighter Opti_ons"
-msgstr "_Opsi Penyorot"
+msgstr ""
 
 #: ../ui/settings.glade:4418
 msgid "How short (screen mm)  of the stroke  AND...\n\n"
 "<i>Recommended: 1 mm</i>"
-msgstr "Seberapa pendek (layar mm)  goresan  DAN...\n\n"
-"<i>Direkomendasikan: 1 mm</i>"
+msgstr ""
 
 #: ../ui/settings.glade:4398
 msgid "How short (time)  AND...\n\n"
 "<i>Recommended: 150ms</i>"
-msgstr "Seberapa pendek (waktu)  DAN...\n\n"
-"<i>Direkomendasikan: 150 ms</i>"
+msgstr ""
 
 #: ../ui/about.glade:243
 msgid "Icon Designers"
@@ -2503,7 +2478,7 @@ msgstr ""
 
 #: ../ui/settings.glade:4386
 msgid "Ignore Time (ms)"
-msgstr "Abaikan Waktu (ms)"
+msgstr ""
 
 #: ../ui/settings.glade:1695
 msgid "Ignore the first"
@@ -2519,15 +2494,15 @@ msgstr ""
 
 #: ../ui/settings.glade:4982
 msgid "Input Device"
-msgstr "Perangkat Masukan"
+msgstr ""
 
 #: ../ui/settings.glade:803
 msgid "Input Devices"
-msgstr "Perangkat Masukan"
+msgstr ""
 
 #: ../ui/settings.glade:1267
 msgid "Input System"
-msgstr "Sistem Masukan"
+msgstr ""
 
 #: ../ui/settings.glade:1236
 msgid "Input stabilization"
@@ -2539,15 +2514,15 @@ msgstr ""
 
 #: ../ui/texdialog.glade:9
 msgid "Insert Latex"
-msgstr "Sisipkan Latex"
+msgstr ""
 
 #: ../ui/main.glade:2629
 msgid "Insert Page After"
-msgstr "Sisipkan Halaman Setelah"
+msgstr ""
 
 #: ../ui/main.glade:2621
 msgid "Insert Page Before"
-msgstr "Sisipkan Halaman Sebelum"
+msgstr ""
 
 #: ../ui/settings.glade:5269
 msgid "LaTeX"
@@ -2571,27 +2546,27 @@ msgstr ""
 
 #: ../ui/main.glade:575
 msgid "Layout"
-msgstr "Tata Letak"
+msgstr ""
 
 #: ../ui/settings.glade:3152
 msgid "Left / Right-Handed"
-msgstr "Kidal / Normal"
+msgstr ""
 
 #: ../ui/about.glade:421
 msgid "License"
-msgstr "Lisensi"
+msgstr ""
 
 #: ../ui/settings.glade:717
 msgid "Load / Save"
-msgstr "Muat / Simpan"
+msgstr ""
 
 #: ../ui/images.glade:73
 msgid "Load file"
-msgstr "Muat berkas"
+msgstr ""
 
 #: ../ui/toolbarManageDialog.glade:9
 msgid "Manage Toolbar"
-msgstr "Kelola Bilah Alat"
+msgstr ""
 
 #: ../ui/settings.glade:1098
 msgid "Mass"
@@ -2603,7 +2578,7 @@ msgstr ""
 
 #: ../ui/settings.glade:4438
 msgid "Max Length (mm)"
-msgstr "Panjang Maksimum (mm)"
+msgstr ""
 
 #: ../ui/settings.glade:873
 msgid "Merge button events with stylus tip events\n"
@@ -2612,7 +2587,7 @@ msgstr ""
 
 #: ../ui/settings.glade:1356
 msgid "Middle Mouse Button"
-msgstr "Tombol Tengah Tetikus"
+msgstr ""
 
 #: ../ui/settings.glade:1565
 msgid "Minimum Pressure:"
@@ -2620,23 +2595,23 @@ msgstr ""
 
 #: ../ui/settings.glade:1443 ../ui/settingsDeviceClassConfig.glade:42
 msgid "Mouse"
-msgstr "Tetikus"
+msgstr ""
 
 #: ../ui/settings.glade:1412
 msgid "Mouse Buttons"
-msgstr "Tombol Tetikus"
+msgstr ""
 
 #: ../ui/settingsDeviceClassConfig.glade:43
 msgid "Mouse+Keyboard Combo"
-msgstr "Kombinasi Tetikus + Papan Tik"
+msgstr ""
 
 #: ../ui/main.glade:2659
 msgid "Move Down"
-msgstr "Turunkan"
+msgstr ""
 
 #: ../ui/main.glade:2651
 msgid "Move Up"
-msgstr "Naikkan"
+msgstr ""
 
 #: ../ui/main.glade:1129
 msgid "N_ext Annotated Page"
@@ -2644,19 +2619,19 @@ msgstr ""
 
 #: ../ui/main.glade:1176
 msgid "New Page _After"
-msgstr "Halaman Baru _Setelah"
+msgstr ""
 
 #: ../ui/main.glade:1166
 msgid "New Page _Before"
-msgstr "Halaman Baru Se_belum"
+msgstr ""
 
 #: ../ui/main.glade:1187
 msgid "New Page at _End"
-msgstr "Halaman Baru di _Akhir"
+msgstr ""
 
 #: ../ui/main.glade:1234
 msgid "New _Layer"
-msgstr "_Lapisan Baru"
+msgstr ""
 
 #: ../ui/settings.glade:2846
 msgctxt "stylus cursor uses no icon"
@@ -2674,7 +2649,7 @@ msgstr ""
 
 #: ../ui/settings.glade:4024
 msgid "Offset first page this many pages when <b>Pair Pages</b> enabled"
-msgstr "Offset halaman pertama sejumlah halaman ini saat <b>Pasangkan Halaman</b> diaktifkan"
+msgstr ""
 
 #: ../ui/fillOpacity.glade:14
 msgid "Opacity settings"
@@ -2682,11 +2657,11 @@ msgstr ""
 
 #: ../ui/settings.glade:923
 msgid "Options"
-msgstr "Opsi"
+msgstr ""
 
 #: ../ui/settings.glade:5005
 msgid "Output Device"
-msgstr "Perangkat Keluaran"
+msgstr ""
 
 #: ../ui/settings.glade:4643
 msgid "PDF Cache"
@@ -2698,11 +2673,11 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:206
 msgid "Pages:"
-msgstr "Halaman:"
+msgstr ""
 
 #: ../ui/settings.glade:4057
 msgid "Paired Pages"
-msgstr "Halaman Berpasangan"
+msgstr ""
 
 #: ../ui/main.glade:1293
 msgid "Paper B_ackground"
@@ -2710,29 +2685,28 @@ msgstr ""
 
 #: ../ui/pagesize.glade:18
 msgid "Paper Format"
-msgstr "Format Kertas"
+msgstr ""
 
 #: ../ui/main.glade:1283
 msgid "Paper _Color"
-msgstr "_Warna Kertas"
+msgstr ""
 
 #: ../ui/main.glade:1273
 msgid "Paper _Format"
-msgstr "_Format Kertas"
+msgstr ""
 
 #: ../ui/about.glade:296
 msgid "Partially based on Xournal\n"
 "by Denis Auroux"
-msgstr "Berbasis sebagian pada Xournal\n"
-"oleh Denis Auroux"
+msgstr ""
 
 #: ../ui/main.glade:1928
 msgid "Pause"
-msgstr "Jeda"
+msgstr ""
 
 #: ../ui/main.glade:1555
 msgid "Pen _Options"
-msgstr "_Opsi Pena"
+msgstr ""
 
 #: ../ui/settings.glade:3498
 msgid "Performance"
@@ -2744,11 +2718,11 @@ msgstr ""
 
 #: ../ui/plugin.glade:14
 msgid "Plugin Manager"
-msgstr "Pengelola Pengaya"
+msgstr ""
 
 #: ../ui/main.glade:1993
 msgid "Plugin _Manager"
-msgstr "_Pengelola Pengaya"
+msgstr ""
 
 #: ../ui/plugin.glade:121
 msgid "Plugin changes are only applied after Xournal++ is restarted"
@@ -2764,7 +2738,7 @@ msgstr ""
 
 #: ../ui/main.glade:487
 msgid "Preferences"
-msgstr "Preferensi"
+msgstr ""
 
 #: ../ui/settings.glade:1163
 msgid "Preprocessor"
@@ -2772,7 +2746,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3399
 msgid "Presentation Mode"
-msgstr "Mode Presentasi"
+msgstr ""
 
 #: ../ui/settings.glade:4167
 msgid "Preserve line width"
@@ -2784,19 +2758,19 @@ msgstr ""
 
 #: ../ui/settings.glade:1646
 msgid "Pressure Sensitivity"
-msgstr "Sensitivitas Tekanan"
+msgstr ""
 
 #: ../ui/about.glade:129
 msgid "RELEASE_IDENTIFIER"
-msgstr "RELEASE_IDENTIFIER"
+msgstr ""
 
 #: ../ui/settings.glade:2960
 msgid "Radius"
-msgstr "Radius"
+msgstr ""
 
 #: ../ui/exportSettings.glade:160
 msgid "Range"
-msgstr "Jangkauan"
+msgstr ""
 
 #: ../ui/settings.glade:4591
 msgid "Re-render when the page's zoom changes by more than "
@@ -2804,15 +2778,15 @@ msgstr ""
 
 #: ../ui/main.glade:187
 msgid "Recent _Documents"
-msgstr "_Dokumen Terkini"
+msgstr ""
 
 #: ../ui/main.glade:1918
 msgid "Record / Stop"
-msgstr "Rekam / Hentikan"
+msgstr ""
 
 #: ../ui/settings.glade:5133
 msgid "Recording Quality"
-msgstr "Kualitas Rekaman"
+msgstr ""
 
 #: ../ui/main.glade:1256
 msgid "Rename Layer"
@@ -2828,19 +2802,19 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:26
 msgid "Resolution"
-msgstr "Resolusi"
+msgstr ""
 
 #: ../ui/settings.glade:1394
 msgid "Right Mouse Button"
-msgstr "Tombol Kanan Tetikus"
+msgstr ""
 
 #: ../ui/settings.glade:4229
 msgid "Rotation snapping tolerance"
-msgstr "Toleransi lengketkan rotasi"
+msgstr ""
 
 #: ../ui/settings.glade:5071
 msgid "Sample Rate"
-msgstr "Laju Sampel"
+msgstr ""
 
 #: ../ui/renameLayerDialog.glade:65
 msgid "Sample layer name"
@@ -2848,83 +2822,83 @@ msgstr ""
 
 #: ../ui/settings.glade:3231
 msgid "Scrollbars"
-msgstr "Bilah Gulir"
+msgstr ""
 
 #: ../ui/settings.glade:3992
 msgid "Scrolling outside the page"
-msgstr "Gulir di luar halaman"
+msgstr ""
 
 #: ../ui/pageTemplate.glade:177
 msgid "Select Background Color"
-msgstr "Pilih Warna Latar Belakang"
+msgstr ""
 
 #: ../ui/settings.glade:4906
 msgid "Select Folder"
-msgstr "Pilih Folder"
+msgstr ""
 
 #: ../ui/images.glade:8
 msgid "Select Image"
-msgstr "Pilih Gambar"
+msgstr ""
 
 #: ../ui/pdfpages.glade:8
 msgid "Select PDF Page"
-msgstr "Pilih Halaman PDF"
+msgstr ""
 
 #: ../ui/settings.glade:3364
 msgid "Select toolbar:"
-msgstr "Pilih bilah alat:"
+msgstr ""
 
 #: ../ui/settings.glade:2714
 msgid "Selection Color (Text, Stroke Selection etc.)"
-msgstr "Warna Pemilihan (Teks, Pemilihan Goresan, dsb.)"
+msgstr ""
 
 #: ../ui/main.glade:330
 msgid "Send Backward"
-msgstr "Bawa mundur"
+msgstr ""
 
 #: ../ui/main.glade:339
 msgid "Send to Back"
-msgstr "Bawa ke Belakang"
+msgstr ""
 
 #: ../ui/settings.glade:1628
 msgid "Sensitivity Scale"
-msgstr "Skala Sensitivitas"
+msgstr ""
 
 #: ../ui/main.glade:684
 msgid "Set Columns"
-msgstr "Setel Kolom"
+msgstr ""
 
 #: ../ui/main.glade:789
 msgid "Set Rows"
-msgstr "Setel Baris"
+msgstr ""
 
 #: ../ui/settings.glade:4501
 msgid "Settings:"
-msgstr "Setelan:"
+msgstr ""
 
 #: ../ui/settings.glade:4510
 msgid "Show Floating Toolbox"
-msgstr "Tampilkan Kotak Alat Melayang"
+msgstr ""
 
 #: ../ui/settings.glade:2606
 msgid "Show Menubar on Startup"
-msgstr "Tampilkan Bilah Menu saat Mulai"
+msgstr ""
 
 #: ../ui/main.glade:543
 msgid "Show Sidebar"
-msgstr "Tampilkan Bilah Sisi"
+msgstr ""
 
 #: ../ui/main.glade:559
 msgid "Show Toolbars"
-msgstr "Tampilkan Bilah Alat"
+msgstr ""
 
 #: ../ui/settings.glade:3114
 msgid "Show sidebar on the right side"
-msgstr "Tampilkan bilah sisi di kanan"
+msgstr ""
 
 #: ../ui/settings.glade:3130
 msgid "Show vertical scrollbar on the left side"
-msgstr "Tampilkan bilah gulir vertikal di kiri"
+msgstr ""
 
 #: ../ui/settings.glade:893
 msgid "Slower strokes are assigned a greater pressure than faster strokes, if pressure information is absent.\n\n"
@@ -2938,7 +2912,7 @@ msgstr ""
 
 #: ../ui/settings.glade:4339
 msgid "Snapping"
-msgstr "Lengketkan"
+msgstr ""
 
 #: ../ui/about.glade:356
 msgid "Source Code / Bug Tracker"
@@ -2946,15 +2920,15 @@ msgstr ""
 
 #: ../ui/settings.glade:3581
 msgid "Speed for Ctrl + Scroll"
-msgstr "Kecepatan untuk Ctrl + Gulir"
+msgstr ""
 
 #: ../ui/settings.glade:3609
 msgid "Speed for a Zoomstep"
-msgstr "Kecepatan langkah perbesaran"
+msgstr ""
 
 #: ../ui/settingsButtonConfig.glade:130
 msgid "Standard"
-msgstr "Standar"
+msgstr ""
 
 #: ../ui/settings.glade:2404
 msgid "Start zooming after a distance "
@@ -2962,23 +2936,23 @@ msgstr ""
 
 #: ../ui/settings.glade:4891 ../ui/settings.glade:4928
 msgid "Storage Folder"
-msgstr "Folder Penyimpanan"
+msgstr ""
 
 #: ../ui/settings.glade:1949
 msgid "Stylus"
-msgstr "Stylus"
+msgstr ""
 
 #: ../ui/settings.glade:1918
 msgid "Stylus Buttons"
-msgstr "Tombol Stylus"
+msgstr ""
 
 #: ../ui/settings.glade:4449
 msgid "Successive (ms)"
-msgstr "Berturut-turut (ms)"
+msgstr ""
 
 #: ../ui/main.glade:903
 msgid "T_oolbars"
-msgstr "Bilah _Alat"
+msgstr ""
 
 #: ../ui/latexSettings.glade:215
 msgid "Template file settings"
@@ -2986,15 +2960,15 @@ msgstr ""
 
 #: ../ui/pagesize.glade:101
 msgid "Template:"
-msgstr "Templat:"
+msgstr ""
 
 #: ../ui/settings.glade:2273 ../ui/settings.glade:2286
 msgid "Test"
-msgstr "Tes"
+msgstr ""
 
 #: ../ui/latexSettings.glade:268
 msgid "Test configuration"
-msgstr "Tes konfigurasi"
+msgstr ""
 
 #: ../ui/latexSettings.glade:272
 msgid "Test if the current configuration is valid by running the LaTeX generation command on the global template file with a test formula."
@@ -3002,7 +2976,7 @@ msgstr ""
 
 #: ../ui/main.glade:1906
 msgid "Text Font..."
-msgstr "Fonta Teks..."
+msgstr ""
 
 #: ../ui/latexSettings.glade:99
 msgid "The LaTeX file to use as a template for the LaTeX tool."
@@ -3022,7 +2996,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3763
 msgid "The unit of the ruler is cm"
-msgstr "Satuan untuk penggaris adalah cm"
+msgstr ""
 
 #: ../ui/pageTemplate.glade:114
 msgid "These settings will be used for new pages"
@@ -3030,7 +3004,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2121
 msgid "Timeout"
-msgstr "Waktu habis"
+msgstr ""
 
 #: ../ui/settings.glade:2521
 msgid "Touch Drawing"
@@ -3039,15 +3013,15 @@ msgstr ""
 #: ../ui/settings.glade:2035 ../ui/settings.glade:2552
 #: ../ui/settingsDeviceClassConfig.glade:46
 msgid "Touchscreen"
-msgstr "Layar sentuh"
+msgstr ""
 
 #: ../ui/settings.glade:4478
 msgid "Try to select object first."
-msgstr "Cobalah memilih objek terlebih dahulu."
+msgstr ""
 
 #: ../ui/settings.glade:4483 ../ui/settings.glade:4515
 msgid "Try to select object first; if nothing selected then show floating toolbox if enabled."
-msgstr "Cobalah memilih objek terlebih dahulu; jika tidak ada yang dipilih, tampilkan kotak alat melayang jika diaktifkan."
+msgstr ""
 
 #: ../ui/settings.glade:2753
 msgid "Use  available Stock Icons (requires restart)"
@@ -3067,7 +3041,7 @@ msgstr ""
 
 #: ../ui/settings.glade:4037
 msgid "Usually 0 or 1"
-msgstr "Biasanya 0 atau 1"
+msgstr ""
 
 #: ../ui/settings.glade:213
 msgid "Velocity based Gaussian weights"
@@ -3075,19 +3049,19 @@ msgstr ""
 
 #: ../ui/about.glade:181
 msgid "Version"
-msgstr "Versi"
+msgstr ""
 
 #: ../ui/pluginEntry.glade:94
 msgid "Version: "
-msgstr "Versi: "
+msgstr ""
 
 #: ../ui/settings.glade:3529
 msgid "View"
-msgstr "Tampilan"
+msgstr ""
 
 #: ../ui/about.glade:328
 msgid "Website"
-msgstr "Situs web"
+msgstr ""
 
 #: ../ui/settings.glade:2398
 msgid "When drawing with touch, two-finger gestures intended to pan the view can instead cause it to zoom, causing performance issues. \n"
@@ -3101,331 +3075,331 @@ msgstr ""
 
 #: ../ui/settingsButtonConfig.glade:131
 msgid "Whiteout"
-msgstr "Putihkan"
+msgstr ""
 
 #: ../ui/exportSettings.glade:29
 msgid "Width"
-msgstr "Lebar"
+msgstr ""
 
 #: ../ui/pagesize.glade:189
 msgid "Width:"
-msgstr "Lebar:"
+msgstr ""
 
 #: ../ui/about.glade:393
 msgid "With help from the community"
-msgstr "Dengan bantuan dari komunitas"
+msgstr ""
 
 #: ../ui/about.glade:156
 msgid "X.X.X"
-msgstr "X.X.X"
+msgstr ""
 
 #: ../ui/settings.glade:238
 msgid "Xournal++ Preferences"
-msgstr "Preferensi Xournal++"
+msgstr ""
 
 #: ../ui/settings.glade:3817
 msgid "Zoom"
-msgstr "Perbesaran"
+msgstr ""
 
 #: ../ui/settings.glade:2453
 msgid "Zoom Gestures"
-msgstr "Gestur Perbesaran"
+msgstr ""
 
 #: ../ui/settings.glade:3663
 msgid "Zoom Speed"
-msgstr "Kecepatan Perbesaran"
+msgstr ""
 
 #: ../ui/main.glade:696
 msgid "_1 Column"
-msgstr "_1 Kolom"
+msgstr ""
 
 #: ../ui/main.glade:801
 msgid "_1 Row"
-msgstr "_1 Baris"
+msgstr ""
 
 #: ../ui/main.glade:707
 msgid "_2 Columns"
-msgstr "_2 Kolom"
+msgstr ""
 
 #: ../ui/main.glade:812
 msgid "_2 Rows"
-msgstr "_2 Baris"
+msgstr ""
 
 #: ../ui/main.glade:718
 msgid "_3 Columns"
-msgstr "_3 Kolom"
+msgstr ""
 
 #: ../ui/main.glade:823
 msgid "_3 Rows"
-msgstr "_3 Baris"
+msgstr ""
 
 #: ../ui/main.glade:729
 msgid "_4 Columns"
-msgstr "_4 Kolom"
+msgstr ""
 
 #: ../ui/main.glade:834
 msgid "_4 Rows"
-msgstr "_4 Baris"
+msgstr ""
 
 #: ../ui/main.glade:740
 msgid "_5 Columns"
-msgstr "_5 Kolom"
+msgstr ""
 
 #: ../ui/main.glade:845
 msgid "_5 Rows"
-msgstr "_5 Baris"
+msgstr ""
 
 #: ../ui/main.glade:751
 msgid "_6 Columns"
-msgstr "_6 Kolom"
+msgstr ""
 
 #: ../ui/main.glade:856
 msgid "_6 Rows"
-msgstr "_6 Baris"
+msgstr ""
 
 #: ../ui/main.glade:762
 msgid "_7 Columns"
-msgstr "_7 Kolom"
+msgstr ""
 
 #: ../ui/main.glade:867
 msgid "_7 Rows"
-msgstr "_7 Baris"
+msgstr ""
 
 #: ../ui/main.glade:773
 msgid "_8 Columns"
-msgstr "_8 Kolom"
+msgstr ""
 
 #: ../ui/main.glade:878
 msgid "_8 Rows"
-msgstr "_8 Baris"
+msgstr ""
 
 #: ../ui/main.glade:196
 msgid "_Annotate PDF"
-msgstr "_Anotasi PDF"
+msgstr ""
 
 #: ../ui/main.glade:656
 msgid "_Bottom to Top"
-msgstr "_Bawah ke Atas"
+msgstr ""
 
 #: ../ui/main.glade:671
 msgid "_Cols/Rows"
-msgstr "_Kolom/Baris"
+msgstr ""
 
 #: ../ui/main.glade:931
 msgid "_Customize"
-msgstr "K_ustomisasi"
+msgstr ""
 
 #: ../ui/main.glade:1377
 msgid "_Default Tools"
-msgstr "_Alat Bawaan"
+msgstr ""
 
 #: ../ui/main.glade:1217
 msgid "_Delete Page"
-msgstr "Hapus Halaman"
+msgstr ""
 
 #: ../ui/main.glade:292
 msgid "_Edit"
-msgstr "_Edit"
+msgstr ""
 
 #: ../ui/main.glade:1329
 msgid "_Eraser"
-msgstr "P_enghapus"
+msgstr ""
 
 #: ../ui/main.glade:237
 msgid "_Export as PDF"
-msgstr "_Ekspor ke PDF"
+msgstr ""
 
 #: ../ui/main.glade:152
 msgid "_File"
-msgstr "_Berkas"
+msgstr ""
 
 #: ../ui/main.glade:1030
 msgid "_First Page"
-msgstr "Halaman _Pertama"
+msgstr ""
 
 #: ../ui/main.glade:1052
 msgid "_Goto Page"
-msgstr "_Ke Halaman"
+msgstr ""
 
 #: ../ui/main.glade:2007
 msgid "_Help"
-msgstr "_Bantuan"
+msgstr ""
 
 #: ../ui/main.glade:1341
 msgid "_Highlighter"
-msgstr "_Penyorot"
+msgstr ""
 
 #: ../ui/main.glade:587
 msgid "_Horizontal"
-msgstr "_Horisontal"
+msgstr ""
 
 #: ../ui/main.glade:1365
 msgid "_Image"
-msgstr "_Gambar"
+msgstr ""
 
 #: ../ui/main.glade:1155
 msgid "_Journal"
-msgstr "_Jurnal"
+msgstr ""
 
 #: ../ui/main.glade:1074
 msgid "_Last Page"
-msgstr "Halaman _Terakhir"
+msgstr ""
 
 #: ../ui/main.glade:616
 msgid "_Left to Right"
-msgstr "_Kiri ke Kanan"
+msgstr ""
 
 #: ../ui/main.glade:921
 msgid "_Manage"
-msgstr "_Kelola"
+msgstr ""
 
 #: ../ui/main.glade:1019
 msgid "_Navigation"
-msgstr "_Navigasi"
+msgstr ""
 
 #: ../ui/main.glade:1102
 msgid "_Next Layer"
-msgstr "Lapisan _Berikutnya"
+msgstr ""
 
 #: ../ui/main.glade:1063
 msgid "_Next Page"
-msgstr "Halaman _Berikutnya"
+msgstr ""
 
 #: ../ui/main.glade:512
 msgid "_Pair Pages"
-msgstr "_Pasangkan Halaman"
+msgstr ""
 
 #: ../ui/main.glade:1317
 msgid "_Pen"
-msgstr "_Pena"
+msgstr ""
 
 #: ../ui/main.glade:1982
 msgid "_Plugin"
-msgstr "_Pengaya"
+msgstr ""
 
 #: ../ui/main.glade:522
 msgid "_Presentation Mode"
-msgstr "Mode _Presentasi"
+msgstr ""
 
 #: ../ui/main.glade:1091
 msgid "_Previous Layer"
-msgstr "Lapisan _Sebelumnya"
+msgstr ""
 
 #: ../ui/main.glade:1041
 msgid "_Previous Page"
-msgstr "Halaman _Sebelumnya"
+msgstr ""
 
 #: ../ui/main.glade:627
 msgid "_Right to Left"
-msgstr "_Kanan ke Kiri"
+msgstr ""
 
 #: ../ui/main.glade:1394
 msgid "_Shape Recognizer"
-msgstr "_Pengenal Bentuk"
+msgstr ""
 
 #: ../ui/main.glade:1353
 msgid "_Text"
-msgstr "_Teks"
+msgstr ""
 
 #: ../ui/main.glade:1306
 msgid "_Tools"
-msgstr "A_lat"
+msgstr ""
 
 #: ../ui/main.glade:1113
 msgid "_Top Layer"
-msgstr "Lapisan _Atas"
+msgstr ""
 
 #: ../ui/main.glade:645
 msgid "_Top to Bottom"
-msgstr "A_tas ke Bawah"
+msgstr ""
 
 #: ../ui/main.glade:598
 msgid "_Vertical"
-msgstr "_Vertikal"
+msgstr ""
 
 #: ../ui/main.glade:1513
 msgid "_Vertical Space"
-msgstr "Ruang _Vertikal"
+msgstr ""
 
 #: ../ui/main.glade:501
 msgid "_View"
-msgstr "_Tampilan"
+msgstr ""
 
 #: ../ui/main.glade:1795
 msgid "_delete strokes"
-msgstr "_hapus goresan"
+msgstr ""
 
 #: ../ui/main.glade:1577 ../ui/main.glade:1723 ../ui/main.glade:1832
 msgid "_fine"
-msgstr "_halus"
+msgstr ""
 
 #: ../ui/main.glade:1588 ../ui/main.glade:1734 ../ui/main.glade:1843
 msgid "_medium"
-msgstr "_sedang"
+msgstr ""
 
 #: ../ui/main.glade:1773
 msgid "_standard"
-msgstr "_standar"
+msgstr ""
 
 #: ../ui/main.glade:1599 ../ui/main.glade:1745 ../ui/main.glade:1854
 msgid "_thick"
-msgstr "_tebal"
+msgstr ""
 
 #: ../ui/main.glade:1566 ../ui/main.glade:1712 ../ui/main.glade:1821
 msgid "_very fine"
-msgstr "_sangat halus"
+msgstr ""
 
 #: ../ui/main.glade:1784
 msgid "_whiteout"
-msgstr "_putihkan"
+msgstr ""
 
 #: ../ui/pageTemplate.glade:160
 msgid "change"
-msgstr "ubah"
+msgstr ""
 
 #: ../ui/exportSettings.glade:310
 msgid "dpi"
-msgstr "dpi"
+msgstr ""
 
 #: ../ui/pluginEntry.glade:130
 msgid "enabled,"
-msgstr "diaktifkan,"
+msgstr ""
 
 #: ../ui/settings.glade:1730
 msgid "events"
-msgstr "Kejadian"
+msgstr ""
 
 #: ../ui/settings.glade:389
 msgid "every"
-msgstr "setiap"
+msgstr ""
 
 #: ../ui/pageTemplate.glade:54
 msgid "load from file"
-msgstr "muat dari berkas"
+msgstr ""
 
 #: ../ui/settings.glade:416
 msgid "minutes"
-msgstr "menit"
+msgstr ""
 
 #: ../ui/settings.glade:2932 ../ui/settings.glade:2983
 #: ../ui/settings.glade:3959 ../ui/settings.glade:3970
 #: ../ui/settings.glade:4126
 msgid "pixels"
-msgstr "piksel"
+msgstr ""
 
 #: ../ui/settings.glade:2165
 msgid "s <i>(after which the touchscreen will be reactivated again)</i>"
-msgstr "s <i>(setelah itu layar sentuh akan diaktifkan kembali)</i>"
+msgstr ""
 
 #: ../ui/pageTemplate.glade:40
 msgid "save to file"
-msgstr "simpan ke berkas"
+msgstr ""
 
 #: ../ui/main.glade:1610 ../ui/main.glade:1756 ../ui/main.glade:1865
 msgid "ver_y thick"
-msgstr "_sangat tebal"
+msgstr ""
 
 #: ../ui/about.glade:141
 msgid "with libgtk"
-msgstr "dengan libgtk"
+msgstr ""
 

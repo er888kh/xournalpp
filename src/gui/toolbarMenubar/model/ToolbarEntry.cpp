@@ -30,9 +30,7 @@ ToolbarEntry& ToolbarEntry::operator=(ToolbarEntry&& e) {
 ToolbarEntry::~ToolbarEntry() { clearList(); }
 
 void ToolbarEntry::clearList() {
-    for (ToolbarItem* item: entries) {
-        delete item;
-    }
+    for (ToolbarItem* item: entries) { delete item; }
     entries.clear();
 }
 
